@@ -1,0 +1,15260 @@
+Task: 3
+R 0 0
+R 1 0
+R 2 0
+F 4 1
+D 2 1
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 105
+P 2 105
+D 4 105
+F 4 105
+D 1 106
+Task 1
+Task 1
+P 1 135
+D 4 135
+F 4 135
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 269
+D 4 269
+F 4 269
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 315
+P 1 315
+D 4 315
+F 4 315
+D 0 316
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 403
+D 4 403
+F 4 403
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 537
+D 4 537
+R 2 537
+F 4 537
+D 2 538
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 643
+P 2 643
+D 4 643
+F 4 643
+Task 0
+Task 0
+P 0 671
+D 4 671
+F 4 672
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 806
+D 4 806
+F 4 806
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 940
+D 4 940
+F 4 940
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 1074
+D 4 1074
+R 1 1074
+R 2 1074
+F 4 1075
+D 2 1076
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 1181
+P 2 1181
+D 4 1181
+F 4 1181
+D 1 1182
+Task 1
+Task 1
+P 1 1208
+D 4 1208
+F 4 1208
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 1343
+D 4 1343
+F 4 1343
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 1391
+P 1 1391
+D 4 1391
+F 4 1391
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 1477
+D 4 1477
+F 4 1477
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 1611
+D 4 1611
+R 2 1611
+F 4 1611
+D 2 1612
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 1717
+P 2 1717
+D 4 1717
+F 4 1717
+Task 0
+Task 0
+Task 0
+P 0 1745
+D 4 1745
+F 4 1745
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 1879
+D 4 1879
+F 4 1879
+Task 0
+F 0 1889
+P 0 1889
+D 4 1889
+F 4 1889
+IDLE 1890
+P 3 2014
+D 4 2014
+R 1 2014
+R 2 2014
+F 4 2014
+D 2 2015
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 2121
+P 2 2121
+D 4 2121
+F 4 2121
+D 1 2121
+Task 1
+Task 1
+P 1 2148
+D 4 2148
+F 4 2148
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 2282
+D 4 2282
+F 4 2282
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 2331
+P 1 2331
+D 4 2331
+F 4 2331
+IDLE 2332
+P 3 2416
+D 4 2416
+F 4 2416
+IDLE 2416
+P 3 2550
+D 4 2551
+R 0 2551
+R 2 2551
+F 4 2551
+D 2 2552
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 2658
+P 2 2658
+D 4 2658
+F 4 2658
+D 0 2658
+Task 0
+Task 0
+P 0 2685
+D 4 2685
+F 4 2685
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 2819
+D 4 2819
+F 4 2819
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 2953
+D 4 2953
+F 4 2953
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 3087
+D 4 3087
+R 1 3087
+R 2 3087
+F 4 3088
+D 2 3089
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 3194
+P 2 3194
+D 4 3195
+F 4 3195
+D 1 3195
+Task 1
+Task 1
+P 1 3222
+D 4 3222
+F 4 3222
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 3356
+D 4 3356
+F 4 3356
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 3404
+P 1 3404
+D 4 3404
+F 4 3405
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 3490
+D 4 3490
+F 4 3490
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 3624
+D 4 3624
+R 2 3624
+F 4 3624
+D 2 3625
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 3730
+P 2 3731
+D 4 3731
+F 4 3731
+Task 0
+Task 0
+P 0 3758
+D 4 3758
+F 4 3759
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 3893
+D 4 3893
+F 4 3893
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 4027
+D 4 4027
+R 1 4027
+R 2 4027
+F 4 4028
+D 2 4028
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 4134
+P 2 4134
+D 4 4134
+F 4 4134
+D 1 4135
+Task 1
+Task 1
+P 1 4161
+D 4 4161
+F 4 4161
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 4295
+D 4 4295
+F 4 4295
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 4344
+P 1 4344
+D 4 4344
+F 4 4344
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 4430
+D 4 4430
+F 4 4430
+Task 0
+Task 0
+F 0 4444
+P 0 4444
+D 4 4444
+F 4 4444
+IDLE 4445
+P 3 4564
+D 4 4564
+R 2 4564
+F 4 4564
+D 2 4564
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 4670
+P 2 4670
+D 4 4670
+F 4 4670
+IDLE 4671
+P 3 4698
+D 4 4698
+F 4 4698
+IDLE 4698
+P 3 4832
+D 4 4832
+F 4 4832
+IDLE 4832
+P 3 4966
+D 4 4966
+F 4 4966
+IDLE 4966
+P 3 5101
+D 4 5101
+R 0 5101
+R 1 5101
+R 2 5101
+F 4 5102
+D 2 5103
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 5209
+P 2 5209
+D 4 5209
+F 4 5209
+D 1 5209
+Task 1
+Task 1
+P 1 5235
+D 4 5235
+F 4 5235
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 5369
+D 4 5369
+F 4 5369
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 5418
+P 1 5418
+D 4 5418
+F 4 5419
+D 0 5420
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 5503
+D 4 5503
+R 2 5503
+F 4 5503
+D 2 5504
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 5610
+P 2 5610
+D 4 5610
+F 4 5610
+Task 0
+Task 0
+Task 0
+P 0 5638
+D 4 5638
+F 4 5638
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 5772
+D 4 5772
+F 4 5772
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 5906
+D 4 5906
+F 4 5906
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 6040
+D 4 6040
+R 1 6040
+R 2 6040
+F 4 6041
+D 2 6042
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 6147
+P 2 6147
+D 4 6147
+F 4 6147
+D 1 6148
+Task 1
+Task 1
+P 1 6174
+D 4 6174
+F 4 6174
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 6309
+D 4 6309
+F 4 6309
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 6357
+P 1 6357
+D 4 6357
+F 4 6358
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 6443
+D 4 6443
+F 4 6443
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 6577
+D 4 6577
+R 2 6577
+F 4 6577
+D 2 6578
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 6683
+P 2 6683
+D 4 6683
+F 4 6683
+Task 0
+Task 0
+P 0 6711
+D 4 6711
+F 4 6711
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 6845
+D 4 6845
+F 4 6846
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 6980
+D 4 6980
+F 4 6980
+Task 0
+Task 0
+F 0 6994
+P 0 6994
+D 4 6994
+F 4 6994
+IDLE 6995
+P 3 7114
+D 4 7114
+R 1 7114
+R 2 7114
+F 4 7115
+D 2 7115
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 7221
+P 2 7221
+D 4 7221
+F 4 7221
+D 1 7222
+Task 1
+Task 1
+P 1 7248
+D 4 7248
+F 4 7248
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 7382
+D 4 7382
+F 4 7382
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 7431
+P 1 7431
+D 4 7431
+F 4 7431
+IDLE 7432
+P 3 7517
+D 4 7517
+R 0 7517
+R 2 7517
+F 4 7517
+D 2 7518
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 7624
+P 2 7624
+D 4 7624
+F 4 7624
+D 0 7624
+Task 0
+Task 0
+P 0 7651
+D 4 7651
+F 4 7651
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 7785
+D 4 7785
+F 4 7785
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 7919
+D 4 7919
+F 4 7919
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 8053
+D 4 8053
+R 1 8053
+R 2 8054
+F 4 8054
+D 2 8055
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 8161
+P 2 8161
+D 4 8161
+F 4 8161
+D 1 8161
+Task 1
+Task 1
+P 1 8188
+D 4 8188
+F 4 8188
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 8322
+D 4 8322
+F 4 8322
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 8370
+P 1 8370
+D 4 8370
+F 4 8371
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 8456
+D 4 8456
+F 4 8456
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 8590
+D 4 8590
+R 2 8590
+F 4 8590
+D 2 8591
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 8697
+P 2 8697
+D 4 8697
+F 4 8697
+Task 0
+Task 0
+P 0 8725
+D 4 8725
+F 4 8725
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 8859
+D 4 8859
+F 4 8859
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 8993
+D 4 8993
+F 4 8993
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+F 0 9092
+P 0 9092
+D 4 9092
+R 1 9092
+R 2 9093
+F 4 9094
+D 2 9095
+Task 2
+Task 2
+Task 2
+P 2 9127
+D 4 9127
+F 4 9127
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 9200
+P 2 9200
+D 4 9200
+F 4 9201
+D 1 9201
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 9261
+D 4 9261
+F 4 9261
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 9396
+D 4 9396
+F 4 9396
+Task 1
+Task 1
+F 1 9410
+P 1 9410
+D 4 9410
+F 4 9411
+IDLE 9412
+P 3 9530
+D 4 9530
+R 2 9530
+F 4 9530
+D 2 9530
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 9636
+P 2 9636
+D 4 9636
+F 4 9636
+IDLE 9637
+P 3 9664
+D 4 9664
+F 4 9664
+IDLE 9664
+P 3 9798
+D 4 9798
+F 4 9798
+IDLE 9798
+P 3 9932
+D 4 9932
+F 4 9933
+IDLE 9933
+P 3 10067
+D 4 10067
+R 0 10067
+R 1 10067
+R 2 10068
+F 4 10069
+D 2 10070
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 10175
+P 2 10175
+D 4 10175
+F 4 10175
+D 1 10176
+Task 1
+Task 1
+P 1 10201
+D 4 10201
+F 4 10201
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 10335
+D 4 10335
+F 4 10335
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 10386
+P 1 10386
+D 4 10386
+F 4 10386
+D 0 10387
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 10469
+D 4 10469
+F 4 10469
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 10604
+D 4 10604
+R 2 10604
+F 4 10604
+D 2 10605
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 10710
+P 2 10710
+D 4 10710
+F 4 10710
+Task 0
+Task 0
+Task 0
+P 0 10738
+D 4 10738
+F 4 10738
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 10872
+D 4 10872
+F 4 10872
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 11006
+D 4 11006
+R 1 11006
+R 2 11007
+F 4 11008
+D 2 11009
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 11114
+P 2 11114
+D 4 11114
+F 4 11114
+D 1 11115
+Task 1
+Task 1
+P 1 11140
+D 4 11140
+F 4 11140
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 11275
+D 4 11275
+F 4 11275
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 11325
+P 1 11325
+D 4 11325
+F 4 11325
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 11409
+D 4 11409
+F 4 11409
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 11543
+D 4 11543
+R 2 11543
+F 4 11543
+D 2 11544
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 11650
+P 2 11650
+D 4 11650
+F 4 11650
+Task 0
+Task 0
+Task 0
+P 0 11677
+D 4 11677
+F 4 11677
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 11812
+D 4 11812
+F 4 11812
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 11946
+D 4 11946
+F 4 11946
+Task 0
+Task 0
+F 0 11965
+P 0 11965
+D 4 11965
+F 4 11966
+IDLE 11967
+P 3 12080
+D 4 12080
+R 1 12080
+R 2 12080
+F 4 12081
+D 2 12082
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 12188
+P 2 12188
+D 4 12188
+F 4 12188
+D 1 12189
+Task 1
+Task 1
+P 1 12214
+D 4 12214
+F 4 12214
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 12348
+D 4 12348
+F 4 12348
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 12398
+P 1 12398
+D 4 12398
+F 4 12399
+IDLE 12399
+P 3 12483
+D 4 12483
+F 4 12483
+IDLE 12483
+P 3 12617
+D 4 12617
+R 0 12617
+R 2 12617
+F 4 12618
+D 2 12619
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 12724
+P 2 12724
+D 4 12724
+F 4 12725
+D 0 12725
+Task 0
+Task 0
+P 0 12751
+D 4 12751
+F 4 12751
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 12885
+D 4 12885
+F 4 12885
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 13019
+D 4 13020
+R 1 13020
+R 2 13020
+F 4 13020
+D 2 13021
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 13127
+P 2 13127
+D 4 13127
+F 4 13127
+D 1 13128
+Task 1
+Task 1
+P 1 13154
+D 4 13154
+F 4 13154
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 13288
+D 4 13288
+F 4 13288
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 13337
+P 1 13337
+D 4 13337
+F 4 13338
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 13422
+D 4 13422
+F 4 13422
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 13556
+D 4 13556
+R 2 13556
+F 4 13557
+D 2 13558
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 13663
+P 2 13663
+D 4 13664
+F 4 13664
+Task 0
+Task 0
+P 0 13691
+D 4 13691
+F 4 13691
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 13825
+D 4 13825
+F 4 13825
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 13959
+D 4 13959
+F 4 13959
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 14093
+D 4 14093
+R 1 14093
+R 2 14093
+F 4 14094
+D 2 14095
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 14201
+P 2 14201
+D 4 14201
+F 4 14201
+D 1 14202
+Task 1
+Task 1
+P 1 14227
+D 4 14227
+F 4 14227
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 14362
+D 4 14362
+F 4 14362
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 14411
+P 1 14411
+D 4 14411
+F 4 14412
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 14496
+D 4 14496
+F 4 14496
+Task 0
+Task 0
+F 0 14515
+P 0 14515
+D 4 14515
+R 2 14516
+F 4 14517
+D 2 14517
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 14623
+P 2 14623
+D 4 14623
+F 4 14623
+IDLE 14624
+P 3 14630
+D 4 14630
+F 4 14630
+IDLE 14630
+P 3 14764
+D 4 14764
+F 4 14764
+IDLE 14764
+P 3 14899
+D 4 14899
+F 4 14899
+IDLE 14899
+P 3 15033
+D 4 15033
+R 0 15033
+R 1 15033
+R 2 15034
+F 4 15035
+D 2 15036
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 15141
+P 2 15141
+D 4 15141
+F 4 15141
+D 1 15142
+Task 1
+Task 1
+P 1 15167
+D 4 15167
+F 4 15167
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 15301
+D 4 15301
+F 4 15301
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 15352
+P 1 15352
+D 4 15352
+F 4 15352
+D 0 15353
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 15435
+D 4 15435
+F 4 15435
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 15570
+D 4 15570
+R 2 15570
+F 4 15570
+D 2 15571
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 15676
+P 2 15676
+D 4 15676
+F 4 15676
+Task 0
+Task 0
+Task 0
+P 0 15704
+D 4 15704
+F 4 15704
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 15838
+D 4 15838
+F 4 15838
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 15972
+D 4 15972
+F 4 15972
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 16106
+D 4 16107
+R 1 16107
+R 2 16107
+F 4 16107
+D 2 16108
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 16214
+P 2 16214
+D 4 16214
+F 4 16214
+D 1 16215
+Task 1
+Task 1
+P 1 16241
+D 4 16241
+F 4 16241
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 16375
+D 4 16375
+F 4 16375
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 16424
+P 1 16424
+D 4 16424
+F 4 16425
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 16509
+D 4 16509
+R 2 16509
+F 4 16509
+D 2 16510
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 16616
+P 2 16616
+D 4 16616
+F 4 16616
+Task 0
+Task 0
+Task 0
+P 0 16643
+D 4 16643
+F 4 16643
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 16778
+D 4 16778
+F 4 16778
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 16912
+D 4 16912
+F 4 16912
+Task 0
+Task 0
+F 0 16931
+P 0 16931
+D 4 16931
+F 4 16931
+IDLE 16932
+P 3 17046
+D 4 17046
+R 1 17046
+R 2 17046
+F 4 17047
+D 2 17048
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 17154
+P 2 17154
+D 4 17154
+F 4 17154
+D 1 17155
+Task 1
+Task 1
+P 1 17180
+D 4 17180
+F 4 17180
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 17314
+D 4 17314
+F 4 17315
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 17364
+P 1 17364
+D 4 17364
+F 4 17365
+IDLE 17366
+P 3 17449
+D 4 17449
+F 4 17449
+IDLE 17449
+P 3 17583
+D 4 17583
+R 0 17583
+R 2 17583
+F 4 17584
+D 2 17585
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 17691
+P 2 17691
+D 4 17691
+F 4 17691
+D 0 17691
+Task 0
+Task 0
+P 0 17717
+D 4 17717
+F 4 17717
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 17851
+D 4 17851
+F 4 17851
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 17986
+D 4 17986
+F 4 17986
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 18120
+D 4 18120
+R 1 18120
+R 2 18120
+F 4 18121
+D 2 18122
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 18228
+P 2 18228
+D 4 18228
+F 4 18228
+D 1 18229
+Task 1
+Task 1
+P 1 18254
+D 4 18254
+F 4 18254
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 18388
+D 4 18388
+F 4 18388
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 18438
+P 1 18438
+D 4 18438
+F 4 18439
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 18522
+D 4 18522
+R 2 18522
+F 4 18522
+D 2 18523
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 18629
+P 2 18629
+D 4 18629
+F 4 18629
+Task 0
+Task 0
+Task 0
+P 0 18657
+D 4 18657
+F 4 18657
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 18791
+D 4 18791
+F 4 18791
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 18925
+D 4 18925
+F 4 18925
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 19059
+D 4 19059
+R 1 19059
+R 2 19059
+F 4 19060
+D 2 19061
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 19167
+P 2 19167
+D 4 19167
+F 4 19167
+D 1 19168
+Task 1
+Task 1
+P 1 19193
+D 4 19194
+F 4 19194
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 19328
+D 4 19328
+F 4 19328
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 19377
+P 1 19377
+D 4 19377
+F 4 19378
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 19462
+D 4 19462
+F 4 19462
+Task 0
+Task 0
+F 0 19481
+P 0 19481
+D 4 19481
+F 4 19482
+IDLE 19483
+P 3 19596
+D 4 19596
+R 2 19596
+F 4 19596
+D 2 19597
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 19703
+P 2 19703
+D 4 19703
+F 4 19703
+IDLE 19704
+P 3 19730
+D 4 19730
+F 4 19730
+IDLE 19730
+P 3 19865
+D 4 19865
+F 4 19865
+IDLE 19865
+P 3 19999
+D 4 19999
+F 4 19999
+IDLE 19999
+P 3 20133
+D 4 20133
+R 0 20133
+R 1 20133
+R 2 20134
+F 4 20135
+D 2 20136
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 20242
+P 2 20242
+D 4 20242
+F 4 20242
+D 1 20243
+Task 1
+Task 1
+P 1 20267
+D 4 20267
+F 4 20267
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 20401
+D 4 20401
+F 4 20402
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 20452
+P 1 20452
+D 4 20452
+F 4 20453
+D 0 20453
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 20536
+D 4 20536
+R 2 20536
+F 4 20536
+D 2 20537
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 20642
+P 2 20642
+D 4 20642
+F 4 20642
+Task 0
+Task 0
+Task 0
+P 0 20670
+D 4 20670
+F 4 20670
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 20804
+D 4 20804
+F 4 20804
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 20938
+D 4 20938
+F 4 20938
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 21073
+D 4 21073
+R 1 21073
+R 2 21073
+F 4 21074
+D 2 21075
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 21181
+P 2 21181
+D 4 21181
+F 4 21181
+D 1 21182
+Task 1
+Task 1
+P 1 21207
+D 4 21207
+F 4 21207
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 21341
+D 4 21341
+F 4 21341
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 21391
+P 1 21391
+D 4 21391
+F 4 21392
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 21475
+D 4 21475
+F 4 21475
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 21609
+D 4 21609
+R 2 21609
+F 4 21610
+D 2 21610
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 21716
+P 2 21716
+D 4 21716
+F 4 21716
+Task 0
+Task 0
+Task 0
+P 0 21744
+D 4 21744
+F 4 21744
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 21878
+D 4 21878
+F 4 21878
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 22012
+D 4 22012
+R 1 22012
+R 2 22012
+F 4 22013
+D 2 22014
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 22120
+P 2 22120
+D 4 22120
+F 4 22120
+Task 0
+Task 0
+F 0 22140
+P 0 22140
+D 4 22140
+F 4 22141
+D 1 22141
+P 1 22146
+D 4 22146
+F 4 22146
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 22281
+D 4 22281
+F 4 22281
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 22351
+P 1 22351
+D 4 22351
+F 4 22351
+IDLE 22352
+P 3 22415
+D 4 22415
+F 4 22415
+IDLE 22415
+P 3 22549
+D 4 22549
+R 0 22549
+R 2 22549
+F 4 22550
+D 2 22551
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 22657
+P 2 22657
+D 4 22657
+F 4 22657
+D 0 22658
+Task 0
+Task 0
+P 0 22683
+D 4 22683
+F 4 22683
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 22817
+D 4 22817
+F 4 22817
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 22952
+D 4 22952
+F 4 22952
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 23086
+D 4 23086
+R 1 23086
+R 2 23086
+F 4 23087
+D 2 23088
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 23194
+P 2 23194
+D 4 23194
+F 4 23194
+D 1 23195
+Task 1
+Task 1
+P 1 23220
+D 4 23220
+F 4 23220
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 23354
+D 4 23354
+F 4 23354
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 23404
+P 1 23404
+D 4 23404
+F 4 23405
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 23488
+D 4 23488
+F 4 23489
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 23623
+D 4 23623
+R 2 23623
+F 4 23623
+D 2 23624
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 23729
+P 2 23729
+D 4 23729
+F 4 23729
+Task 0
+Task 0
+Task 0
+P 0 23757
+D 4 23757
+F 4 23757
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 23891
+D 4 23891
+F 4 23891
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 24025
+D 4 24025
+R 1 24025
+R 2 24025
+F 4 24026
+D 2 24027
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 24133
+P 2 24133
+D 4 24133
+F 4 24133
+D 1 24134
+Task 1
+Task 1
+P 1 24160
+D 4 24160
+F 4 24160
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 24294
+D 4 24294
+F 4 24294
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 24343
+P 1 24343
+D 4 24343
+F 4 24344
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 24428
+D 4 24428
+F 4 24428
+Task 0
+Task 0
+F 0 24447
+P 0 24447
+D 4 24447
+F 4 24448
+IDLE 24449
+P 3 24562
+D 4 24562
+R 2 24562
+F 4 24562
+D 2 24563
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 24669
+P 2 24669
+D 4 24669
+F 4 24669
+IDLE 24670
+P 3 24696
+D 4 24696
+F 4 24696
+IDLE 24696
+P 3 24831
+D 4 24831
+F 4 24831
+IDLE 24831
+P 3 24965
+D 4 24965
+F 4 24965
+IDLE 24965
+P 3 25099
+D 4 25099
+R 0 25099
+R 1 25099
+R 2 25100
+F 4 25101
+D 2 25102
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 25208
+P 2 25208
+D 4 25208
+F 4 25208
+D 1 25209
+Task 1
+Task 1
+P 1 25233
+D 4 25233
+F 4 25233
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 25368
+D 4 25368
+F 4 25368
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 25418
+P 1 25418
+D 4 25418
+F 4 25419
+D 0 25420
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 25502
+D 4 25502
+R 2 25502
+F 4 25502
+D 2 25503
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 25608
+P 2 25608
+D 4 25608
+F 4 25608
+Task 0
+Task 0
+Task 0
+P 0 25636
+D 4 25636
+F 4 25636
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 25770
+D 4 25770
+F 4 25770
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 25904
+D 4 25904
+F 4 25904
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 26039
+D 4 26039
+R 1 26039
+R 2 26039
+F 4 26040
+D 2 26041
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 26147
+P 2 26147
+D 4 26147
+F 4 26147
+D 1 26148
+Task 1
+Task 1
+P 1 26173
+D 4 26173
+F 4 26173
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 26307
+D 4 26307
+F 4 26307
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 26357
+P 1 26357
+D 4 26357
+F 4 26358
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 26441
+D 4 26441
+F 4 26441
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 26575
+D 4 26575
+R 2 26576
+F 4 26576
+D 2 26576
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 26682
+P 2 26682
+D 4 26682
+F 4 26682
+Task 0
+Task 0
+Task 0
+P 0 26710
+D 4 26710
+F 4 26710
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 26844
+D 4 26844
+F 4 26844
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 26978
+D 4 26978
+F 4 26978
+Task 0
+Task 0
+F 0 26997
+P 0 26997
+D 4 26997
+F 4 26998
+IDLE 26999
+P 3 27112
+D 4 27112
+R 1 27112
+R 2 27112
+F 4 27113
+D 2 27114
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 27220
+P 2 27220
+D 4 27220
+F 4 27220
+D 1 27221
+Task 1
+Task 1
+P 1 27247
+D 4 27247
+F 4 27247
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 27381
+D 4 27381
+F 4 27381
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 27430
+P 1 27430
+D 4 27430
+F 4 27431
+IDLE 27432
+P 3 27515
+D 4 27515
+R 0 27515
+R 2 27515
+F 4 27516
+D 2 27517
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 27623
+P 2 27623
+D 4 27623
+F 4 27623
+D 0 27624
+Task 0
+Task 0
+P 0 27649
+D 4 27649
+F 4 27649
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 27783
+D 4 27783
+F 4 27783
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 27918
+D 4 27918
+F 4 27918
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 28052
+D 4 28052
+R 1 28052
+R 2 28052
+F 4 28053
+D 2 28054
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 28160
+P 2 28160
+D 4 28160
+F 4 28160
+D 1 28161
+Task 1
+Task 1
+P 1 28186
+D 4 28186
+F 4 28186
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 28320
+D 4 28320
+F 4 28320
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 28370
+P 1 28370
+D 4 28370
+F 4 28371
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 28455
+D 4 28455
+F 4 28455
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 28589
+D 4 28589
+R 2 28589
+F 4 28589
+D 2 28590
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 28695
+P 2 28695
+D 4 28695
+F 4 28695
+Task 0
+Task 0
+Task 0
+P 0 28723
+D 4 28723
+F 4 28723
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 28857
+D 4 28857
+F 4 28857
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 28991
+D 4 28991
+F 4 28991
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+F 0 29094
+P 0 29094
+D 4 29094
+R 1 29095
+R 2 29096
+F 4 29097
+D 2 29097
+Task 2
+Task 2
+Task 2
+P 2 29126
+D 4 29126
+F 4 29126
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 29203
+P 2 29203
+D 4 29203
+F 4 29203
+D 1 29204
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 29260
+D 4 29260
+F 4 29260
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 29394
+D 4 29394
+F 4 29394
+Task 1
+Task 1
+F 1 29414
+P 1 29414
+D 4 29414
+F 4 29414
+IDLE 29415
+P 3 29528
+D 4 29528
+R 2 29528
+F 4 29528
+D 2 29529
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 29635
+P 2 29635
+D 4 29635
+F 4 29635
+IDLE 29636
+P 3 29662
+D 4 29662
+F 4 29663
+IDLE 29663
+P 3 29797
+D 4 29797
+F 4 29797
+IDLE 29797
+P 3 29931
+D 4 29931
+F 4 29931
+IDLE 29931
+P 3 30065
+D 4 30065
+R 0 30065
+R 1 30065
+R 2 30066
+F 4 30067
+D 2 30068
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 30174
+P 2 30174
+D 4 30174
+F 4 30174
+D 1 30175
+Task 1
+Task 1
+P 1 30199
+D 4 30199
+F 4 30199
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 30334
+D 4 30334
+F 4 30334
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 30384
+P 1 30384
+D 4 30384
+F 4 30385
+D 0 30386
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 30468
+D 4 30468
+F 4 30468
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 30602
+D 4 30602
+R 2 30602
+F 4 30602
+D 2 30603
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 30709
+P 2 30709
+D 4 30709
+F 4 30709
+Task 0
+Task 0
+Task 0
+P 0 30736
+D 4 30736
+F 4 30736
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 30870
+D 4 30870
+F 4 30870
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 31005
+D 4 31005
+R 1 31005
+R 2 31005
+F 4 31006
+D 2 31007
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 31113
+P 2 31113
+D 4 31113
+F 4 31113
+D 1 31114
+Task 1
+Task 1
+P 1 31139
+D 4 31139
+F 4 31139
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 31273
+D 4 31273
+F 4 31273
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 31323
+P 1 31323
+D 4 31323
+F 4 31324
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 31407
+D 4 31407
+F 4 31407
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 31542
+D 4 31542
+R 2 31542
+F 4 31542
+D 2 31542
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 31648
+P 2 31648
+D 4 31648
+F 4 31648
+Task 0
+Task 0
+Task 0
+P 0 31676
+D 4 31676
+F 4 31676
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 31810
+D 4 31810
+F 4 31810
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 31944
+D 4 31944
+F 4 31944
+Task 0
+Task 0
+F 0 31963
+P 0 31963
+D 4 31963
+F 4 31964
+IDLE 31965
+P 3 32078
+D 4 32078
+R 1 32078
+R 2 32078
+F 4 32079
+D 2 32080
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 32186
+P 2 32186
+D 4 32186
+F 4 32186
+D 1 32187
+Task 1
+Task 1
+P 1 32213
+D 4 32213
+F 4 32213
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 32347
+D 4 32347
+F 4 32347
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 32396
+P 1 32396
+D 4 32396
+F 4 32397
+IDLE 32398
+P 3 32481
+D 4 32481
+F 4 32481
+IDLE 32481
+P 3 32615
+D 4 32615
+R 0 32615
+R 2 32615
+F 4 32616
+D 2 32617
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 32723
+P 2 32723
+D 4 32723
+F 4 32723
+D 0 32724
+Task 0
+Task 0
+P 0 32749
+D 4 32750
+F 4 32750
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 32884
+D 4 32884
+F 4 32884
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 33018
+D 4 33018
+R 1 33018
+R 2 33018
+F 4 33019
+D 2 33020
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 33126
+P 2 33126
+D 4 33126
+F 4 33126
+D 1 33127
+Task 1
+Task 1
+P 1 33152
+D 4 33152
+F 4 33152
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 33286
+D 4 33286
+F 4 33286
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 33336
+P 1 33336
+D 4 33336
+F 4 33336
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 33421
+D 4 33421
+F 4 33421
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 33555
+D 4 33555
+R 2 33555
+F 4 33555
+D 2 33556
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 33662
+P 2 33662
+D 4 33662
+F 4 33662
+Task 0
+Task 0
+P 0 33689
+D 4 33689
+F 4 33689
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 33823
+D 4 33823
+F 4 33823
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 33957
+D 4 33957
+F 4 33958
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 34092
+D 4 34092
+R 1 34092
+R 2 34092
+F 4 34093
+D 2 34094
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 34199
+P 2 34199
+D 4 34199
+F 4 34199
+D 1 34200
+Task 1
+Task 1
+P 1 34226
+D 4 34226
+F 4 34226
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 34360
+D 4 34360
+F 4 34360
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 34410
+P 1 34410
+D 4 34410
+F 4 34410
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 34494
+D 4 34494
+F 4 34494
+Task 0
+Task 0
+F 0 34513
+P 0 34513
+D 4 34513
+R 2 34514
+F 4 34515
+D 2 34516
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 34622
+P 2 34622
+D 4 34622
+F 4 34622
+IDLE 34623
+P 3 34629
+D 4 34629
+F 4 34629
+IDLE 34629
+P 3 34763
+D 4 34763
+F 4 34763
+IDLE 34763
+P 3 34897
+D 4 34897
+F 4 34897
+IDLE 34897
+P 3 35031
+D 4 35031
+R 0 35031
+R 1 35031
+R 2 35032
+F 4 35033
+D 2 35034
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 35140
+P 2 35140
+D 4 35140
+F 4 35140
+D 1 35141
+Task 1
+Task 1
+P 1 35165
+D 4 35165
+F 4 35165
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 35300
+D 4 35300
+F 4 35300
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 35350
+P 1 35350
+D 4 35350
+F 4 35351
+D 0 35352
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 35434
+D 4 35434
+F 4 35434
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 35568
+D 4 35568
+R 2 35568
+F 4 35568
+D 2 35569
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 35675
+P 2 35675
+D 4 35675
+F 4 35675
+Task 0
+Task 0
+Task 0
+P 0 35702
+D 4 35702
+F 4 35702
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 35836
+D 4 35837
+F 4 35837
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 35971
+D 4 35971
+F 4 35971
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 36105
+D 4 36105
+R 1 36105
+R 2 36105
+F 4 36106
+D 2 36107
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 36213
+P 2 36213
+D 4 36213
+F 4 36213
+D 1 36214
+Task 1
+Task 1
+P 1 36239
+D 4 36239
+F 4 36239
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 36373
+D 4 36373
+F 4 36373
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 36423
+P 1 36423
+D 4 36423
+F 4 36424
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 36508
+D 4 36508
+R 2 36508
+F 4 36508
+D 2 36509
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 36614
+P 2 36614
+D 4 36614
+F 4 36614
+Task 0
+Task 0
+Task 0
+P 0 36642
+D 4 36642
+F 4 36642
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 36776
+D 4 36776
+F 4 36776
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 36910
+D 4 36910
+F 4 36910
+Task 0
+Task 0
+F 0 36929
+P 0 36929
+D 4 36929
+F 4 36930
+IDLE 36931
+P 3 37044
+D 4 37044
+R 1 37044
+R 2 37045
+F 4 37045
+D 2 37046
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 37152
+P 2 37152
+D 4 37152
+F 4 37152
+D 1 37153
+Task 1
+Task 1
+P 1 37179
+D 4 37179
+F 4 37179
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 37313
+D 4 37313
+F 4 37313
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 37362
+P 1 37362
+D 4 37362
+F 4 37363
+IDLE 37364
+P 3 37447
+D 4 37447
+F 4 37447
+IDLE 37447
+P 3 37581
+D 4 37581
+R 0 37581
+R 2 37581
+F 4 37582
+D 2 37583
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 37689
+P 2 37689
+D 4 37689
+F 4 37689
+D 0 37690
+Task 0
+Task 0
+P 0 37716
+D 4 37716
+F 4 37716
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 37850
+D 4 37850
+F 4 37850
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 37984
+D 4 37984
+F 4 37984
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 38118
+D 4 38118
+R 1 38118
+R 2 38119
+F 4 38119
+D 2 38120
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 38226
+P 2 38226
+D 4 38226
+F 4 38226
+D 1 38227
+Task 1
+Task 1
+P 1 38252
+D 4 38252
+F 4 38252
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 38387
+D 4 38387
+F 4 38387
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 38436
+P 1 38436
+D 4 38436
+F 4 38437
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 38521
+D 4 38521
+R 2 38521
+F 4 38521
+D 2 38522
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 38628
+P 2 38628
+D 4 38628
+F 4 38628
+Task 0
+Task 0
+Task 0
+P 0 38655
+D 4 38655
+F 4 38655
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 38789
+D 4 38789
+F 4 38789
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 38923
+D 4 38924
+F 4 38924
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 39058
+D 4 39058
+R 1 39058
+R 2 39058
+F 4 39059
+D 2 39060
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 39165
+P 2 39165
+D 4 39165
+F 4 39165
+D 1 39166
+Task 1
+Task 1
+P 1 39192
+D 4 39192
+F 4 39192
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 39326
+D 4 39326
+F 4 39326
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 39376
+P 1 39376
+D 4 39376
+F 4 39376
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 39460
+D 4 39460
+F 4 39460
+Task 0
+Task 0
+F 0 39480
+P 0 39480
+D 4 39480
+F 4 39481
+IDLE 39481
+P 3 39595
+D 4 39595
+R 2 39595
+F 4 39595
+D 2 39596
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 39701
+P 2 39701
+D 4 39701
+F 4 39701
+IDLE 39702
+P 3 39729
+D 4 39729
+F 4 39729
+IDLE 39729
+P 3 39863
+D 4 39863
+F 4 39863
+IDLE 39863
+P 3 39997
+D 4 39997
+F 4 39997
+IDLE 39997
+P 3 40131
+D 4 40131
+R 0 40132
+R 1 40132
+R 2 40132
+F 4 40133
+D 2 40134
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 40240
+P 2 40240
+D 4 40240
+F 4 40240
+D 1 40241
+Task 1
+Task 1
+P 1 40266
+D 4 40266
+F 4 40266
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 40400
+D 4 40400
+F 4 40400
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 40450
+P 1 40450
+D 4 40450
+F 4 40451
+D 0 40452
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 40534
+D 4 40534
+R 2 40534
+F 4 40534
+D 2 40535
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 40641
+P 2 40641
+D 4 40641
+F 4 40641
+Task 0
+Task 0
+Task 0
+P 0 40668
+D 4 40668
+F 4 40668
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 40803
+D 4 40803
+F 4 40803
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 40937
+D 4 40937
+F 4 40937
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 41071
+D 4 41071
+R 1 41071
+R 2 41071
+F 4 41072
+D 2 41073
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 41179
+P 2 41179
+D 4 41179
+F 4 41179
+D 1 41180
+Task 1
+Task 1
+P 1 41205
+D 4 41205
+F 4 41205
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 41339
+D 4 41339
+F 4 41339
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 41389
+P 1 41389
+D 4 41389
+F 4 41390
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 41474
+D 4 41474
+F 4 41474
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 41608
+D 4 41608
+R 2 41608
+F 4 41608
+D 2 41609
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 41715
+P 2 41715
+D 4 41715
+F 4 41715
+Task 0
+Task 0
+Task 0
+P 0 41742
+D 4 41742
+F 4 41742
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 41876
+D 4 41876
+F 4 41876
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 42011
+D 4 42011
+R 1 42011
+R 2 42011
+F 4 42011
+D 2 42012
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 42118
+P 2 42118
+D 4 42118
+F 4 42118
+Task 0
+Task 0
+F 0 42138
+P 0 42138
+D 4 42138
+F 4 42139
+D 1 42140
+P 1 42145
+D 4 42145
+F 4 42145
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 42279
+D 4 42279
+F 4 42279
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 42349
+P 1 42349
+D 4 42349
+F 4 42350
+IDLE 42351
+P 3 42413
+D 4 42413
+F 4 42413
+IDLE 42413
+P 3 42547
+D 4 42547
+R 0 42547
+R 2 42547
+F 4 42548
+D 2 42549
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 42655
+P 2 42655
+D 4 42655
+F 4 42655
+D 0 42656
+Task 0
+Task 0
+P 0 42682
+D 4 42682
+F 4 42682
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 42816
+D 4 42816
+F 4 42816
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 42950
+D 4 42950
+F 4 42950
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 43084
+D 4 43084
+R 1 43084
+R 2 43085
+F 4 43086
+D 2 43086
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 43192
+P 2 43192
+D 4 43192
+F 4 43192
+D 1 43193
+Task 1
+Task 1
+P 1 43218
+D 4 43218
+F 4 43219
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 43353
+D 4 43353
+F 4 43353
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 43402
+P 1 43402
+D 4 43402
+F 4 43403
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 43487
+D 4 43487
+F 4 43487
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 43621
+D 4 43621
+R 2 43621
+F 4 43621
+D 2 43622
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 43728
+P 2 43728
+D 4 43728
+F 4 43728
+Task 0
+Task 0
+Task 0
+P 0 43755
+D 4 43755
+F 4 43755
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 43890
+D 4 43890
+F 4 43890
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 44024
+D 4 44024
+R 1 44024
+R 2 44024
+F 4 44025
+D 2 44026
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 44131
+P 2 44131
+D 4 44131
+F 4 44131
+D 1 44132
+Task 1
+Task 1
+P 1 44158
+D 4 44158
+F 4 44158
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 44292
+D 4 44292
+F 4 44292
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 44342
+P 1 44342
+D 4 44342
+F 4 44342
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 44426
+D 4 44426
+F 4 44426
+Task 0
+Task 0
+F 0 44446
+P 0 44446
+D 4 44446
+F 4 44447
+IDLE 44447
+P 3 44561
+D 4 44561
+R 2 44561
+F 4 44561
+D 2 44562
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 44667
+P 2 44667
+D 4 44667
+F 4 44667
+IDLE 44668
+P 3 44695
+D 4 44695
+F 4 44695
+IDLE 44695
+P 3 44829
+D 4 44829
+F 4 44829
+IDLE 44829
+P 3 44963
+D 4 44963
+F 4 44963
+IDLE 44963
+P 3 45098
+D 4 45098
+R 0 45098
+R 1 45098
+R 2 45098
+F 4 45099
+D 2 45100
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 45206
+P 2 45206
+D 4 45206
+F 4 45206
+D 1 45207
+Task 1
+Task 1
+P 1 45232
+D 4 45232
+F 4 45232
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 45366
+D 4 45366
+F 4 45366
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 45416
+P 1 45416
+D 4 45416
+F 4 45417
+D 0 45418
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 45500
+D 4 45500
+R 2 45500
+F 4 45500
+D 2 45501
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 45607
+P 2 45607
+D 4 45607
+F 4 45607
+Task 0
+Task 0
+Task 0
+P 0 45634
+D 4 45634
+F 4 45634
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 45769
+D 4 45769
+F 4 45769
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 45903
+D 4 45903
+F 4 45903
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 46037
+D 4 46037
+R 1 46037
+R 2 46037
+F 4 46038
+D 2 46039
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 46145
+P 2 46145
+D 4 46145
+F 4 46145
+D 1 46146
+Task 1
+Task 1
+P 1 46171
+D 4 46171
+F 4 46171
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 46305
+D 4 46306
+F 4 46306
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 46355
+P 1 46355
+D 4 46355
+F 4 46356
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 46440
+D 4 46440
+F 4 46440
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 46574
+D 4 46574
+R 2 46574
+F 4 46574
+D 2 46575
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 46681
+P 2 46681
+D 4 46681
+F 4 46681
+Task 0
+Task 0
+Task 0
+P 0 46708
+D 4 46708
+F 4 46708
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 46842
+D 4 46842
+F 4 46842
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 46977
+D 4 46977
+F 4 46977
+Task 0
+Task 0
+F 0 46996
+P 0 46996
+D 4 46996
+F 4 46997
+IDLE 46997
+P 3 47111
+D 4 47111
+R 1 47111
+R 2 47111
+F 4 47112
+D 2 47113
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 47218
+P 2 47218
+D 4 47218
+F 4 47218
+D 1 47219
+Task 1
+Task 1
+P 1 47245
+D 4 47245
+F 4 47245
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 47379
+D 4 47379
+F 4 47379
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 47429
+P 1 47429
+D 4 47429
+F 4 47429
+IDLE 47430
+P 3 47513
+D 4 47513
+R 0 47513
+R 2 47514
+F 4 47514
+D 2 47515
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 47621
+P 2 47621
+D 4 47621
+F 4 47621
+D 0 47622
+Task 0
+Task 0
+P 0 47648
+D 4 47648
+F 4 47648
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 47782
+D 4 47782
+F 4 47782
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 47916
+D 4 47916
+F 4 47916
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 48050
+D 4 48050
+R 1 48050
+R 2 48051
+F 4 48052
+D 2 48053
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 48158
+P 2 48158
+D 4 48158
+F 4 48158
+D 1 48159
+Task 1
+Task 1
+P 1 48185
+D 4 48185
+F 4 48185
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 48319
+D 4 48319
+F 4 48319
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 48368
+P 1 48369
+D 4 48369
+F 4 48369
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 48453
+D 4 48453
+F 4 48453
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 48587
+D 4 48587
+R 2 48587
+F 4 48587
+D 2 48588
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 48694
+P 2 48694
+D 4 48694
+F 4 48694
+Task 0
+Task 0
+Task 0
+P 0 48721
+D 4 48721
+F 4 48721
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 48856
+D 4 48856
+F 4 48856
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 48990
+D 4 48990
+F 4 48990
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+F 0 49092
+P 0 49092
+D 4 49092
+R 1 49093
+R 2 49094
+F 4 49095
+D 2 49096
+Task 2
+Task 2
+Task 2
+P 2 49124
+D 4 49124
+F 4 49124
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 49202
+P 2 49202
+D 4 49202
+F 4 49202
+D 1 49203
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 49258
+D 4 49258
+F 4 49258
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 49392
+D 4 49393
+F 4 49393
+Task 1
+Task 1
+F 1 49412
+P 1 49412
+D 4 49412
+F 4 49413
+IDLE 49414
+P 3 49527
+D 4 49527
+R 2 49527
+F 4 49527
+D 2 49528
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 49633
+P 2 49633
+D 4 49633
+F 4 49633
+IDLE 49634
+P 3 49661
+D 4 49661
+F 4 49661
+IDLE 49661
+P 3 49795
+D 4 49795
+F 4 49795
+IDLE 49795
+P 3 49929
+D 4 49929
+F 4 49929
+IDLE 49929
+P 3 50064
+D 4 50064
+R 0 50064
+R 1 50064
+R 2 50065
+F 4 50065
+D 2 50066
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 50172
+P 2 50172
+D 4 50172
+F 4 50172
+D 1 50173
+Task 1
+Task 1
+P 1 50198
+D 4 50198
+F 4 50198
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 50332
+D 4 50332
+F 4 50332
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 50382
+P 1 50382
+D 4 50382
+F 4 50383
+D 0 50384
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 50466
+D 4 50466
+F 4 50466
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 50600
+D 4 50600
+R 2 50600
+F 4 50601
+D 2 50601
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 50707
+P 2 50707
+D 4 50707
+F 4 50707
+Task 0
+Task 0
+Task 0
+P 0 50735
+D 4 50735
+F 4 50735
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 50869
+D 4 50869
+F 4 50869
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 51003
+D 4 51003
+R 1 51003
+R 2 51004
+F 4 51005
+D 2 51005
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 51111
+P 2 51111
+D 4 51111
+F 4 51111
+D 1 51112
+Task 1
+Task 1
+P 1 51137
+D 4 51137
+F 4 51137
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 51272
+D 4 51272
+F 4 51272
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 51321
+P 1 51321
+D 4 51321
+F 4 51322
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 51406
+D 4 51406
+F 4 51406
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 51540
+D 4 51540
+R 2 51540
+F 4 51540
+D 2 51541
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 51647
+P 2 51647
+D 4 51647
+F 4 51647
+Task 0
+Task 0
+Task 0
+P 0 51674
+D 4 51674
+F 4 51674
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 51808
+D 4 51808
+F 4 51808
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 51943
+D 4 51943
+F 4 51943
+Task 0
+Task 0
+F 0 51962
+P 0 51962
+D 4 51962
+F 4 51963
+IDLE 51964
+P 3 52077
+D 4 52077
+R 1 52077
+R 2 52077
+F 4 52078
+D 2 52079
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 52184
+P 2 52184
+D 4 52185
+F 4 52185
+D 1 52185
+Task 1
+Task 1
+P 1 52211
+D 4 52211
+F 4 52211
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 52345
+D 4 52345
+F 4 52345
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 52395
+P 1 52395
+D 4 52395
+F 4 52395
+IDLE 52396
+P 3 52479
+D 4 52480
+F 4 52480
+IDLE 52480
+P 3 52614
+D 4 52614
+R 0 52614
+R 2 52614
+F 4 52615
+D 2 52616
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 52721
+P 2 52721
+D 4 52721
+F 4 52721
+D 0 52722
+Task 0
+Task 0
+P 0 52748
+D 4 52748
+F 4 52748
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 52882
+D 4 52882
+F 4 52882
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 53016
+D 4 53016
+R 1 53016
+R 2 53016
+F 4 53017
+D 2 53018
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 53124
+P 2 53124
+D 4 53124
+F 4 53124
+D 1 53125
+Task 1
+Task 1
+P 1 53151
+D 4 53151
+F 4 53151
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 53285
+D 4 53285
+F 4 53285
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 53334
+P 1 53334
+D 4 53334
+F 4 53335
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 53419
+D 4 53419
+F 4 53419
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 53553
+D 4 53553
+R 2 53553
+F 4 53554
+D 2 53555
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 53660
+P 2 53660
+D 4 53660
+F 4 53660
+Task 0
+Task 0
+P 0 53687
+D 4 53687
+F 4 53688
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 53822
+D 4 53822
+F 4 53822
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 53956
+D 4 53956
+F 4 53956
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 54090
+D 4 54090
+R 1 54090
+R 2 54090
+F 4 54091
+D 2 54092
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 54198
+P 2 54198
+D 4 54198
+F 4 54198
+D 1 54199
+Task 1
+Task 1
+P 1 54224
+D 4 54224
+F 4 54224
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 54359
+D 4 54359
+F 4 54359
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 54408
+P 1 54408
+D 4 54408
+F 4 54409
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 54493
+D 4 54493
+F 4 54493
+Task 0
+Task 0
+F 0 54512
+P 0 54512
+D 4 54512
+R 2 54512
+F 4 54513
+D 2 54514
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 54620
+P 2 54620
+D 4 54620
+F 4 54620
+IDLE 54621
+P 3 54627
+D 4 54627
+F 4 54627
+IDLE 54627
+P 3 54761
+D 4 54761
+F 4 54761
+IDLE 54761
+P 3 54895
+D 4 54895
+F 4 54895
+IDLE 54895
+P 3 55030
+D 4 55030
+R 0 55030
+R 1 55030
+R 2 55031
+F 4 55032
+D 2 55033
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 55138
+P 2 55138
+D 4 55138
+F 4 55138
+D 1 55139
+Task 1
+Task 1
+P 1 55164
+D 4 55164
+F 4 55164
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 55298
+D 4 55298
+F 4 55298
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 55348
+P 1 55348
+D 4 55349
+F 4 55349
+D 0 55350
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 55432
+D 4 55432
+F 4 55432
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 55566
+D 4 55567
+R 2 55567
+F 4 55567
+D 2 55567
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 55673
+P 2 55673
+D 4 55673
+F 4 55673
+Task 0
+Task 0
+Task 0
+P 0 55701
+D 4 55701
+F 4 55701
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 55835
+D 4 55835
+F 4 55835
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 55969
+D 4 55969
+F 4 55969
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 56103
+D 4 56103
+R 1 56103
+R 2 56103
+F 4 56104
+D 2 56105
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 56211
+P 2 56211
+D 4 56211
+F 4 56211
+D 1 56212
+Task 1
+Task 1
+P 1 56238
+D 4 56238
+F 4 56238
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 56372
+D 4 56372
+F 4 56372
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 56421
+P 1 56421
+D 4 56421
+F 4 56422
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 56506
+D 4 56506
+R 2 56506
+F 4 56506
+D 2 56507
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 56613
+P 2 56613
+D 4 56613
+F 4 56613
+Task 0
+Task 0
+Task 0
+P 0 56640
+D 4 56640
+F 4 56640
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 56774
+D 4 56774
+F 4 56775
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 56909
+D 4 56909
+F 4 56909
+Task 0
+Task 0
+F 0 56928
+P 0 56928
+D 4 56928
+F 4 56928
+IDLE 56929
+P 3 57043
+D 4 57043
+R 1 57043
+R 2 57043
+F 4 57044
+D 2 57045
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 57151
+P 2 57151
+D 4 57151
+F 4 57151
+D 1 57151
+Task 1
+Task 1
+P 1 57177
+D 4 57177
+F 4 57177
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 57311
+D 4 57311
+F 4 57311
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 57361
+P 1 57361
+D 4 57361
+F 4 57361
+IDLE 57362
+P 3 57446
+D 4 57446
+F 4 57446
+IDLE 57446
+P 3 57580
+D 4 57580
+R 0 57580
+R 2 57580
+F 4 57581
+D 2 57582
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 57687
+P 2 57687
+D 4 57687
+F 4 57687
+D 0 57688
+Task 0
+Task 0
+P 0 57714
+D 4 57714
+F 4 57714
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 57848
+D 4 57848
+F 4 57848
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 57982
+D 4 57982
+F 4 57982
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 58117
+D 4 58117
+R 1 58117
+R 2 58117
+F 4 58118
+D 2 58119
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 58225
+P 2 58225
+D 4 58225
+F 4 58225
+D 1 58226
+Task 1
+Task 1
+P 1 58251
+D 4 58251
+F 4 58251
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 58385
+D 4 58385
+F 4 58385
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 58435
+P 1 58435
+D 4 58435
+F 4 58436
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 58519
+D 4 58519
+R 2 58519
+F 4 58519
+D 2 58520
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 58626
+P 2 58626
+D 4 58626
+F 4 58626
+Task 0
+Task 0
+Task 0
+P 0 58654
+D 4 58654
+F 4 58654
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 58788
+D 4 58788
+F 4 58788
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 58922
+D 4 58922
+F 4 58922
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 59056
+D 4 59056
+R 1 59056
+R 2 59056
+F 4 59057
+D 2 59058
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 59164
+P 2 59164
+D 4 59164
+F 4 59164
+D 1 59165
+Task 1
+Task 1
+P 1 59190
+D 4 59190
+F 4 59190
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 59325
+D 4 59325
+F 4 59325
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 59374
+P 1 59374
+D 4 59374
+F 4 59375
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 59459
+D 4 59459
+F 4 59459
+Task 0
+Task 0
+F 0 59478
+P 0 59478
+D 4 59478
+F 4 59479
+IDLE 59480
+P 3 59593
+D 4 59593
+R 2 59593
+F 4 59593
+D 2 59594
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 59700
+P 2 59700
+D 4 59700
+F 4 59700
+IDLE 59701
+P 3 59727
+D 4 59727
+F 4 59727
+IDLE 59727
+P 3 59861
+D 4 59861
+F 4 59862
+IDLE 59862
+P 3 59996
+D 4 59996
+F 4 59996
+IDLE 59996
+P 3 60130
+D 4 60130
+R 0 60130
+R 1 60130
+R 2 60131
+F 4 60132
+D 2 60133
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 60238
+P 2 60239
+D 4 60239
+F 4 60239
+D 1 60239
+Task 1
+Task 1
+P 1 60264
+D 4 60264
+F 4 60264
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 60398
+D 4 60398
+F 4 60398
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 60449
+P 1 60449
+D 4 60449
+F 4 60449
+D 0 60450
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 60533
+D 4 60533
+R 2 60533
+F 4 60533
+D 2 60534
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 60639
+P 2 60639
+D 4 60639
+F 4 60639
+Task 0
+Task 0
+Task 0
+P 0 60667
+D 4 60667
+F 4 60667
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 60801
+D 4 60801
+F 4 60801
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 60935
+D 4 60935
+F 4 60935
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 61069
+D 4 61069
+R 1 61069
+R 2 61070
+F 4 61071
+D 2 61072
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 61177
+P 2 61178
+D 4 61178
+F 4 61178
+D 1 61178
+Task 1
+Task 1
+P 1 61204
+D 4 61204
+F 4 61204
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 61338
+D 4 61338
+F 4 61338
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 61388
+P 1 61388
+D 4 61388
+F 4 61388
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 61472
+D 4 61472
+F 4 61472
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 61606
+D 4 61606
+R 2 61606
+F 4 61606
+D 2 61607
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 61713
+P 2 61713
+D 4 61713
+F 4 61713
+Task 0
+Task 0
+Task 0
+P 0 61741
+D 4 61741
+F 4 61741
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 61875
+D 4 61875
+F 4 61875
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 62009
+D 4 62009
+R 1 62009
+R 2 62009
+F 4 62010
+D 2 62011
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 62117
+P 2 62117
+D 4 62117
+F 4 62117
+Task 0
+Task 0
+F 0 62137
+P 0 62137
+D 4 62137
+F 4 62137
+D 1 62138
+P 1 62143
+D 4 62143
+F 4 62143
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 62277
+D 4 62277
+F 4 62277
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 62348
+P 1 62348
+D 4 62348
+F 4 62348
+IDLE 62349
+P 3 62412
+D 4 62412
+F 4 62412
+IDLE 62412
+P 3 62546
+D 4 62546
+R 0 62546
+R 2 62546
+F 4 62547
+D 2 62548
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 62653
+P 2 62653
+D 4 62653
+F 4 62654
+D 0 62654
+Task 0
+Task 0
+P 0 62680
+D 4 62680
+F 4 62680
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 62814
+D 4 62814
+F 4 62814
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 62948
+D 4 62948
+F 4 62949
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 63083
+D 4 63083
+R 1 63083
+R 2 63083
+F 4 63084
+D 2 63085
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 63191
+P 2 63191
+D 4 63191
+F 4 63191
+D 1 63192
+Task 1
+Task 1
+P 1 63217
+D 4 63217
+F 4 63217
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 63351
+D 4 63351
+F 4 63351
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 63401
+P 1 63401
+D 4 63401
+F 4 63402
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 63485
+D 4 63485
+F 4 63485
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 63620
+D 4 63620
+R 2 63620
+F 4 63620
+D 2 63621
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 63726
+P 2 63726
+D 4 63726
+F 4 63726
+Task 0
+Task 0
+Task 0
+P 0 63754
+D 4 63754
+F 4 63754
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 63888
+D 4 63888
+F 4 63888
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 64022
+D 4 64022
+R 1 64022
+R 2 64022
+F 4 64023
+D 2 64024
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 64130
+P 2 64130
+D 4 64130
+F 4 64130
+D 1 64131
+Task 1
+Task 1
+P 1 64156
+D 4 64156
+F 4 64156
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 64291
+D 4 64291
+F 4 64291
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 64340
+P 1 64340
+D 4 64340
+F 4 64341
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 64425
+D 4 64425
+F 4 64425
+Task 0
+Task 0
+F 0 64444
+P 0 64444
+D 4 64444
+F 4 64445
+IDLE 64446
+P 3 64559
+D 4 64559
+R 2 64559
+F 4 64559
+D 2 64560
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 64666
+P 2 64666
+D 4 64666
+F 4 64666
+IDLE 64667
+P 3 64693
+D 4 64693
+F 4 64693
+IDLE 64693
+P 3 64828
+D 4 64828
+F 4 64828
+IDLE 64828
+P 3 64962
+D 4 64962
+F 4 64962
+IDLE 64962
+P 3 65096
+D 4 65096
+R 0 65096
+R 1 65096
+R 2 65097
+F 4 65098
+D 2 65099
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 65205
+P 2 65205
+D 4 65205
+F 4 65205
+D 1 65206
+Task 1
+Task 1
+P 1 65230
+D 4 65230
+F 4 65230
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 65364
+D 4 65364
+F 4 65364
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 65415
+P 1 65415
+D 4 65415
+F 4 65415
+D 0 65416
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 65499
+D 4 65499
+F 4 65499
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 65633
+D 4 65633
+R 2 65633
+F 4 65633
+D 2 65634
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 65740
+P 2 65740
+D 4 65740
+F 4 65740
+Task 0
+Task 0
+Task 0
+P 0 65767
+D 4 65767
+F 4 65767
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 65901
+D 4 65901
+F 4 65901
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 66035
+D 4 66036
+R 1 66036
+R 2 66036
+F 4 66037
+D 2 66038
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 66144
+P 2 66144
+D 4 66144
+F 4 66144
+D 1 66145
+Task 1
+Task 1
+P 1 66170
+D 4 66170
+F 4 66170
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 66304
+D 4 66304
+F 4 66304
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 66354
+P 1 66354
+D 4 66354
+F 4 66354
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 66438
+D 4 66438
+F 4 66438
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 66572
+D 4 66572
+R 2 66572
+F 4 66572
+D 2 66573
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 66679
+P 2 66679
+D 4 66679
+F 4 66679
+Task 0
+Task 0
+Task 0
+P 0 66707
+D 4 66707
+F 4 66707
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 66841
+D 4 66841
+F 4 66841
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 66975
+D 4 66975
+F 4 66975
+Task 0
+Task 0
+F 0 66994
+P 0 66994
+D 4 66994
+F 4 66995
+IDLE 66996
+P 3 67109
+D 4 67109
+R 1 67109
+R 2 67109
+F 4 67110
+D 2 67111
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 67217
+P 2 67217
+D 4 67217
+F 4 67217
+D 1 67218
+Task 1
+Task 1
+P 1 67243
+D 4 67243
+F 4 67243
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 67378
+D 4 67378
+F 4 67378
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 67427
+P 1 67427
+D 4 67427
+F 4 67428
+IDLE 67429
+P 3 67512
+D 4 67512
+R 0 67512
+R 2 67512
+F 4 67513
+D 2 67514
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 67620
+P 2 67620
+D 4 67620
+F 4 67620
+D 0 67620
+Task 0
+Task 0
+P 0 67646
+D 4 67646
+F 4 67646
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 67780
+D 4 67780
+F 4 67780
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 67915
+D 4 67915
+F 4 67915
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 68049
+D 4 68049
+R 1 68049
+R 2 68049
+F 4 68050
+D 2 68051
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 68157
+P 2 68157
+D 4 68157
+F 4 68157
+D 1 68158
+Task 1
+Task 1
+P 1 68183
+D 4 68183
+F 4 68183
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 68317
+D 4 68317
+F 4 68317
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 68367
+P 1 68367
+D 4 68367
+F 4 68368
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 68451
+D 4 68451
+F 4 68451
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 68586
+D 4 68586
+R 2 68586
+F 4 68586
+D 2 68587
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 68692
+P 2 68692
+D 4 68692
+F 4 68692
+Task 0
+Task 0
+Task 0
+P 0 68720
+D 4 68720
+F 4 68720
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 68854
+D 4 68854
+F 4 68854
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 68988
+D 4 68988
+F 4 68988
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+F 0 69091
+P 0 69091
+D 4 69091
+R 1 69091
+R 2 69092
+F 4 69093
+D 2 69094
+Task 2
+Task 2
+Task 2
+P 2 69122
+D 4 69123
+F 4 69123
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 69200
+P 2 69200
+D 4 69200
+F 4 69200
+D 1 69201
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 69257
+D 4 69257
+F 4 69257
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 69391
+D 4 69391
+F 4 69391
+Task 1
+Task 1
+F 1 69410
+P 1 69410
+D 4 69410
+F 4 69411
+IDLE 69412
+P 3 69525
+D 4 69525
+R 2 69525
+F 4 69525
+D 2 69526
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 69632
+P 2 69632
+D 4 69632
+F 4 69632
+IDLE 69633
+P 3 69659
+D 4 69659
+F 4 69659
+IDLE 69659
+P 3 69794
+D 4 69794
+F 4 69794
+IDLE 69794
+P 3 69928
+D 4 69928
+F 4 69928
+IDLE 69928
+P 3 70062
+D 4 70062
+R 0 70062
+R 1 70062
+R 2 70063
+F 4 70064
+D 2 70065
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 70171
+P 2 70171
+D 4 70171
+F 4 70171
+D 1 70172
+Task 1
+Task 1
+P 1 70196
+D 4 70196
+F 4 70196
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 70330
+D 4 70330
+F 4 70331
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 70381
+P 1 70381
+D 4 70381
+F 4 70382
+D 0 70382
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 70465
+D 4 70465
+F 4 70465
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 70599
+D 4 70599
+R 2 70599
+F 4 70599
+D 2 70600
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 70706
+P 2 70706
+D 4 70706
+F 4 70706
+Task 0
+Task 0
+Task 0
+P 0 70733
+D 4 70733
+F 4 70733
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 70867
+D 4 70867
+F 4 70867
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 71002
+D 4 71002
+R 1 71002
+R 2 71002
+F 4 71003
+D 2 71004
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 71110
+P 2 71110
+D 4 71110
+F 4 71110
+D 1 71111
+Task 1
+Task 1
+P 1 71136
+D 4 71136
+F 4 71136
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 71270
+D 4 71270
+F 4 71270
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 71320
+P 1 71320
+D 4 71320
+F 4 71321
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 71404
+D 4 71404
+F 4 71404
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 71538
+D 4 71538
+R 2 71538
+F 4 71538
+D 2 71539
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 71645
+P 2 71645
+D 4 71645
+F 4 71645
+Task 0
+Task 0
+Task 0
+P 0 71673
+D 4 71673
+F 4 71673
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 71807
+D 4 71807
+F 4 71807
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 71941
+D 4 71941
+F 4 71941
+Task 0
+Task 0
+F 0 71960
+P 0 71960
+D 4 71960
+F 4 71961
+IDLE 71962
+P 3 72075
+D 4 72075
+R 1 72075
+R 2 72075
+F 4 72076
+D 2 72077
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 72183
+P 2 72183
+D 4 72183
+F 4 72183
+D 1 72184
+Task 1
+Task 1
+P 1 72209
+D 4 72210
+F 4 72210
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 72344
+D 4 72344
+F 4 72344
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 72393
+P 1 72393
+D 4 72393
+F 4 72394
+IDLE 72395
+P 3 72478
+D 4 72478
+F 4 72478
+IDLE 72478
+P 3 72612
+D 4 72612
+R 0 72612
+R 2 72612
+F 4 72613
+D 2 72614
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 72720
+P 2 72720
+D 4 72720
+F 4 72720
+D 0 72721
+Task 0
+Task 0
+P 0 72746
+D 4 72746
+F 4 72746
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 72881
+D 4 72881
+F 4 72881
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 73015
+D 4 73015
+R 1 73015
+R 2 73015
+F 4 73016
+D 2 73017
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 73122
+P 2 73122
+D 4 73122
+F 4 73123
+D 1 73123
+Task 1
+Task 1
+P 1 73149
+D 4 73149
+F 4 73149
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 73283
+D 4 73283
+F 4 73283
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 73333
+P 1 73333
+D 4 73333
+F 4 73333
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 73417
+D 4 73417
+F 4 73418
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 73552
+D 4 73552
+R 2 73552
+F 4 73552
+D 2 73553
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 73659
+P 2 73659
+D 4 73659
+F 4 73659
+Task 0
+Task 0
+P 0 73686
+D 4 73686
+F 4 73686
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 73820
+D 4 73820
+F 4 73820
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 73954
+D 4 73954
+F 4 73954
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 74089
+D 4 74089
+R 1 74089
+R 2 74089
+F 4 74090
+D 2 74090
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 74196
+P 2 74196
+D 4 74196
+F 4 74196
+D 1 74197
+Task 1
+Task 1
+P 1 74223
+D 4 74223
+F 4 74223
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 74357
+D 4 74357
+F 4 74357
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 74406
+P 1 74406
+D 4 74406
+F 4 74407
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 74491
+D 4 74491
+F 4 74491
+Task 0
+Task 0
+F 0 74510
+P 0 74510
+D 4 74510
+R 2 74511
+F 4 74512
+D 2 74513
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 74618
+P 2 74619
+D 4 74619
+F 4 74619
+IDLE 74619
+P 3 74625
+D 4 74625
+F 4 74625
+IDLE 74625
+P 3 74760
+D 4 74760
+F 4 74760
+IDLE 74760
+P 3 74894
+D 4 74894
+F 4 74894
+IDLE 74894
+P 3 75028
+D 4 75028
+R 0 75028
+R 1 75028
+R 2 75029
+F 4 75030
+D 2 75031
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 75137
+P 2 75137
+D 4 75137
+F 4 75137
+D 1 75138
+Task 1
+Task 1
+P 1 75162
+D 4 75162
+F 4 75162
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 75297
+D 4 75297
+F 4 75297
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 75347
+P 1 75347
+D 4 75347
+F 4 75348
+D 0 75349
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 75431
+D 4 75431
+F 4 75431
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 75565
+D 4 75565
+R 2 75565
+F 4 75565
+D 2 75566
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 75672
+P 2 75672
+D 4 75672
+F 4 75672
+Task 0
+Task 0
+Task 0
+P 0 75699
+D 4 75699
+F 4 75699
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 75833
+D 4 75833
+F 4 75833
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 75968
+D 4 75968
+F 4 75968
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 76102
+D 4 76102
+R 1 76102
+R 2 76102
+F 4 76103
+D 2 76104
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 76209
+P 2 76209
+D 4 76209
+F 4 76210
+D 1 76210
+Task 1
+Task 1
+P 1 76236
+D 4 76236
+F 4 76236
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 76370
+D 4 76370
+F 4 76370
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 76420
+P 1 76420
+D 4 76420
+F 4 76420
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 76504
+D 4 76504
+R 2 76505
+F 4 76505
+D 2 76505
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 76611
+P 2 76611
+D 4 76611
+F 4 76611
+Task 0
+Task 0
+Task 0
+P 0 76639
+D 4 76639
+F 4 76639
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 76773
+D 4 76773
+F 4 76773
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 76907
+D 4 76907
+F 4 76907
+Task 0
+Task 0
+F 0 76926
+P 0 76926
+D 4 76926
+F 4 76927
+IDLE 76928
+P 3 77041
+D 4 77041
+R 1 77041
+R 2 77041
+F 4 77042
+D 2 77043
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 77149
+P 2 77149
+D 4 77149
+F 4 77149
+D 1 77150
+Task 1
+Task 1
+P 1 77176
+D 4 77176
+F 4 77176
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 77310
+D 4 77310
+F 4 77310
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 77359
+P 1 77359
+D 4 77359
+F 4 77360
+IDLE 77361
+P 3 77444
+D 4 77444
+F 4 77444
+IDLE 77444
+P 3 77578
+D 4 77578
+R 0 77578
+R 2 77578
+F 4 77579
+D 2 77580
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 77686
+P 2 77686
+D 4 77686
+F 4 77686
+D 0 77687
+Task 0
+Task 0
+P 0 77712
+D 4 77712
+F 4 77712
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 77847
+D 4 77847
+F 4 77847
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 77981
+D 4 77981
+F 4 77981
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 78115
+D 4 78115
+R 1 78115
+R 2 78115
+F 4 78116
+D 2 78117
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 78223
+P 2 78223
+D 4 78223
+F 4 78223
+D 1 78224
+Task 1
+Task 1
+P 1 78249
+D 4 78249
+F 4 78249
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 78384
+D 4 78384
+F 4 78384
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 78433
+P 1 78433
+D 4 78433
+F 4 78434
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 78518
+D 4 78518
+R 2 78518
+F 4 78518
+D 2 78519
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 78624
+P 2 78624
+D 4 78624
+F 4 78624
+Task 0
+Task 0
+Task 0
+P 0 78652
+D 4 78652
+F 4 78652
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 78786
+D 4 78786
+F 4 78786
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 78920
+D 4 78920
+F 4 78920
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 79055
+D 4 79055
+R 1 79055
+R 2 79055
+F 4 79056
+D 2 79057
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 79162
+P 2 79162
+D 4 79162
+F 4 79162
+D 1 79163
+Task 1
+Task 1
+P 1 79189
+D 4 79189
+F 4 79189
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 79323
+D 4 79323
+F 4 79323
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 79372
+P 1 79373
+D 4 79373
+F 4 79373
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 79457
+D 4 79457
+F 4 79457
+Task 0
+Task 0
+F 0 79477
+P 0 79477
+D 4 79477
+F 4 79477
+IDLE 79478
+P 3 79591
+D 4 79591
+R 2 79592
+F 4 79592
+D 2 79592
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 79698
+P 2 79698
+D 4 79698
+F 4 79698
+IDLE 79699
+P 3 79726
+D 4 79726
+F 4 79726
+IDLE 79726
+P 3 79860
+D 4 79860
+F 4 79860
+IDLE 79860
+P 3 79994
+D 4 79994
+F 4 79994
+IDLE 79994
+P 3 80128
+D 4 80128
+R 0 80128
+R 1 80128
+R 2 80129
+F 4 80130
+D 2 80131
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 80237
+P 2 80237
+D 4 80237
+F 4 80237
+D 1 80238
+Task 1
+Task 1
+P 1 80263
+D 4 80263
+F 4 80263
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 80397
+D 4 80397
+F 4 80397
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 80447
+P 1 80447
+D 4 80447
+F 4 80448
+D 0 80449
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 80531
+D 4 80531
+R 2 80531
+F 4 80531
+D 2 80532
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 80638
+P 2 80638
+D 4 80638
+F 4 80638
+Task 0
+Task 0
+Task 0
+P 0 80665
+D 4 80665
+F 4 80665
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 80799
+D 4 80799
+F 4 80799
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 80934
+D 4 80934
+F 4 80934
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 81068
+D 4 81068
+R 1 81068
+R 2 81068
+F 4 81069
+D 2 81070
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 81176
+P 2 81176
+D 4 81176
+F 4 81176
+D 1 81177
+Task 1
+Task 1
+P 1 81202
+D 4 81202
+F 4 81202
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 81336
+D 4 81336
+F 4 81336
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 81386
+P 1 81386
+D 4 81386
+F 4 81387
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 81471
+D 4 81471
+F 4 81471
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 81605
+D 4 81605
+R 2 81605
+F 4 81605
+D 2 81606
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 81711
+P 2 81711
+D 4 81711
+F 4 81711
+Task 0
+Task 0
+Task 0
+P 0 81739
+D 4 81739
+F 4 81739
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 81873
+D 4 81873
+F 4 81873
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 82007
+D 4 82007
+R 1 82007
+R 2 82007
+F 4 82008
+D 2 82009
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 82115
+P 2 82115
+D 4 82115
+F 4 82115
+Task 0
+Task 0
+F 0 82135
+P 0 82135
+D 4 82135
+F 4 82136
+D 1 82137
+P 1 82142
+D 4 82142
+F 4 82142
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 82276
+D 4 82276
+F 4 82276
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 82346
+P 1 82346
+D 4 82346
+F 4 82347
+IDLE 82348
+P 3 82410
+D 4 82410
+F 4 82410
+IDLE 82410
+P 3 82544
+D 4 82544
+R 0 82544
+R 2 82544
+F 4 82545
+D 2 82546
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 82652
+P 2 82652
+D 4 82652
+F 4 82652
+D 0 82653
+Task 0
+Task 0
+P 0 82678
+D 4 82679
+F 4 82679
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 82813
+D 4 82813
+F 4 82813
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 82947
+D 4 82947
+F 4 82947
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 83081
+D 4 83081
+R 1 83081
+R 2 83081
+F 4 83082
+D 2 83083
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 83189
+P 2 83189
+D 4 83189
+F 4 83189
+D 1 83190
+Task 1
+Task 1
+P 1 83215
+D 4 83215
+F 4 83215
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 83350
+D 4 83350
+F 4 83350
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 83399
+P 1 83399
+D 4 83399
+F 4 83400
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 83484
+D 4 83484
+F 4 83484
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 83618
+D 4 83618
+R 2 83618
+F 4 83618
+D 2 83619
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 83725
+P 2 83725
+D 4 83725
+F 4 83725
+Task 0
+Task 0
+Task 0
+P 0 83752
+D 4 83752
+F 4 83752
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 83886
+D 4 83886
+F 4 83886
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 84021
+D 4 84021
+R 1 84021
+R 2 84021
+F 4 84022
+D 2 84023
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 84128
+P 2 84128
+D 4 84128
+F 4 84128
+D 1 84129
+Task 1
+Task 1
+P 1 84155
+D 4 84155
+F 4 84155
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 84289
+D 4 84289
+F 4 84289
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 84339
+P 1 84339
+D 4 84339
+F 4 84339
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 84423
+D 4 84423
+F 4 84423
+Task 0
+Task 0
+F 0 84443
+P 0 84443
+D 4 84443
+F 4 84443
+IDLE 84444
+P 3 84558
+D 4 84558
+R 2 84558
+F 4 84558
+D 2 84558
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 84664
+P 2 84664
+D 4 84664
+F 4 84664
+IDLE 84665
+P 3 84692
+D 4 84692
+F 4 84692
+IDLE 84692
+P 3 84826
+D 4 84826
+F 4 84826
+IDLE 84826
+P 3 84960
+D 4 84960
+F 4 84960
+IDLE 84960
+P 3 85094
+D 4 85094
+R 0 85094
+R 1 85094
+R 2 85095
+F 4 85096
+D 2 85097
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 85203
+P 2 85203
+D 4 85203
+F 4 85203
+D 1 85204
+Task 1
+Task 1
+P 1 85229
+D 4 85229
+F 4 85229
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 85363
+D 4 85363
+F 4 85363
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 85413
+P 1 85413
+D 4 85413
+F 4 85414
+D 0 85415
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 85497
+D 4 85497
+F 4 85497
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 85631
+D 4 85631
+R 2 85631
+F 4 85631
+D 2 85632
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 85738
+P 2 85738
+D 4 85738
+F 4 85738
+Task 0
+Task 0
+Task 0
+P 0 85765
+D 4 85766
+F 4 85766
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 85900
+D 4 85900
+F 4 85900
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 86034
+D 4 86034
+R 1 86034
+R 2 86034
+F 4 86035
+D 2 86036
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 86142
+P 2 86142
+D 4 86142
+F 4 86142
+D 1 86143
+Task 1
+Task 1
+P 1 86168
+D 4 86168
+F 4 86168
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 86302
+D 4 86302
+F 4 86302
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 86352
+P 1 86352
+D 4 86352
+F 4 86353
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 86437
+D 4 86437
+F 4 86437
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 86571
+D 4 86571
+R 2 86571
+F 4 86571
+D 2 86572
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 86677
+P 2 86677
+D 4 86678
+F 4 86678
+Task 0
+Task 0
+Task 0
+P 0 86705
+D 4 86705
+F 4 86705
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 86839
+D 4 86839
+F 4 86839
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 86973
+D 4 86973
+F 4 86974
+Task 0
+Task 0
+F 0 86993
+P 0 86993
+D 4 86993
+F 4 86993
+IDLE 86994
+P 3 87108
+D 4 87108
+R 1 87108
+R 2 87108
+F 4 87109
+D 2 87110
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 87215
+P 2 87215
+D 4 87215
+F 4 87215
+D 1 87216
+Task 1
+Task 1
+P 1 87242
+D 4 87242
+F 4 87242
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 87376
+D 4 87376
+F 4 87376
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 87426
+P 1 87426
+D 4 87426
+F 4 87426
+IDLE 87427
+P 3 87510
+D 4 87510
+R 0 87510
+R 2 87510
+F 4 87511
+D 2 87512
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 87618
+P 2 87618
+D 4 87618
+F 4 87618
+D 0 87619
+Task 0
+Task 0
+P 0 87645
+D 4 87645
+F 4 87645
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 87779
+D 4 87779
+F 4 87779
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 87913
+D 4 87913
+F 4 87913
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 88047
+D 4 88047
+R 1 88047
+R 2 88048
+F 4 88048
+D 2 88049
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 88155
+P 2 88155
+D 4 88155
+F 4 88155
+D 1 88156
+Task 1
+Task 1
+P 1 88181
+D 4 88181
+F 4 88181
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 88316
+D 4 88316
+F 4 88316
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 88365
+P 1 88365
+D 4 88365
+F 4 88366
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 88450
+D 4 88450
+F 4 88450
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 88584
+D 4 88584
+R 2 88584
+F 4 88584
+D 2 88585
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 88691
+P 2 88691
+D 4 88691
+F 4 88691
+Task 0
+Task 0
+Task 0
+P 0 88718
+D 4 88718
+F 4 88718
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 88852
+D 4 88853
+F 4 88853
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 88987
+D 4 88987
+F 4 88987
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+F 0 89089
+P 0 89089
+D 4 89089
+R 1 89090
+R 2 89091
+F 4 89092
+D 2 89093
+Task 2
+Task 2
+Task 2
+P 2 89121
+D 4 89121
+F 4 89121
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 89199
+P 2 89199
+D 4 89199
+F 4 89199
+D 1 89200
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 89255
+D 4 89255
+F 4 89255
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 89389
+D 4 89389
+F 4 89389
+Task 1
+Task 1
+F 1 89409
+P 1 89409
+D 4 89409
+F 4 89410
+IDLE 89410
+P 3 89524
+D 4 89524
+R 2 89524
+F 4 89524
+D 2 89525
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 89630
+P 2 89630
+D 4 89630
+F 4 89630
+IDLE 89631
+P 3 89658
+D 4 89658
+F 4 89658
+IDLE 89658
+P 3 89792
+D 4 89792
+F 4 89792
+IDLE 89792
+P 3 89926
+D 4 89926
+F 4 89926
+IDLE 89926
+P 3 90060
+D 4 90060
+R 0 90060
+R 1 90061
+R 2 90061
+F 4 90062
+D 2 90063
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 90169
+P 2 90169
+D 4 90169
+F 4 90169
+D 1 90170
+Task 1
+Task 1
+P 1 90195
+D 4 90195
+F 4 90195
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 90329
+D 4 90329
+F 4 90329
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 90379
+P 1 90379
+D 4 90379
+F 4 90380
+D 0 90381
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 90463
+D 4 90463
+F 4 90463
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 90597
+D 4 90597
+R 2 90597
+F 4 90597
+D 2 90598
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 90704
+P 2 90704
+D 4 90704
+F 4 90704
+Task 0
+Task 0
+Task 0
+P 0 90732
+D 4 90732
+F 4 90732
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 90866
+D 4 90866
+F 4 90866
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 91000
+D 4 91000
+R 1 91000
+R 2 91000
+F 4 91001
+D 2 91002
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 91108
+P 2 91108
+D 4 91108
+F 4 91108
+D 1 91109
+Task 1
+Task 1
+P 1 91134
+D 4 91134
+F 4 91134
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 91268
+D 4 91268
+F 4 91268
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 91318
+P 1 91318
+D 4 91318
+F 4 91319
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 91403
+D 4 91403
+F 4 91403
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 91537
+D 4 91537
+R 2 91537
+F 4 91537
+D 2 91538
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 91644
+P 2 91644
+D 4 91644
+F 4 91644
+Task 0
+Task 0
+Task 0
+P 0 91671
+D 4 91671
+F 4 91671
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 91805
+D 4 91805
+F 4 91805
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 91939
+D 4 91940
+F 4 91940
+Task 0
+Task 0
+F 0 91959
+P 0 91959
+D 4 91959
+F 4 91959
+IDLE 91960
+P 3 92074
+D 4 92074
+R 1 92074
+R 2 92074
+F 4 92075
+D 2 92076
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 92181
+P 2 92181
+D 4 92181
+F 4 92181
+D 1 92182
+Task 1
+Task 1
+P 1 92208
+D 4 92208
+F 4 92208
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 92342
+D 4 92342
+F 4 92342
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 92392
+P 1 92392
+D 4 92392
+F 4 92392
+IDLE 92393
+P 3 92476
+D 4 92476
+F 4 92476
+IDLE 92476
+P 3 92611
+D 4 92611
+R 0 92611
+R 2 92611
+F 4 92612
+D 2 92613
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 92718
+P 2 92718
+D 4 92718
+F 4 92718
+D 0 92719
+Task 0
+Task 0
+P 0 92745
+D 4 92745
+F 4 92745
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 92879
+D 4 92879
+F 4 92879
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 93013
+D 4 93013
+R 1 93013
+R 2 93013
+F 4 93014
+D 2 93015
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 93121
+P 2 93121
+D 4 93121
+F 4 93121
+D 1 93122
+Task 1
+Task 1
+P 1 93147
+D 4 93147
+F 4 93148
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 93282
+D 4 93282
+F 4 93282
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 93331
+P 1 93331
+D 4 93331
+F 4 93332
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 93416
+D 4 93416
+F 4 93416
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 93550
+D 4 93550
+R 2 93550
+F 4 93551
+D 2 93552
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 93657
+P 2 93657
+D 4 93657
+F 4 93657
+Task 0
+Task 0
+P 0 93684
+D 4 93684
+F 4 93684
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 93819
+D 4 93819
+F 4 93819
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 93953
+D 4 93953
+F 4 93953
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 94087
+D 4 94087
+R 1 94087
+R 2 94087
+F 4 94088
+D 2 94089
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 94195
+P 2 94195
+D 4 94195
+F 4 94195
+D 1 94196
+Task 1
+Task 1
+P 1 94221
+D 4 94221
+F 4 94221
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 94355
+D 4 94355
+F 4 94355
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 94405
+P 1 94405
+D 4 94405
+F 4 94406
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 94490
+D 4 94490
+F 4 94490
+Task 0
+Task 0
+F 0 94509
+P 0 94509
+D 4 94509
+R 2 94509
+F 4 94510
+D 2 94511
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 94617
+P 2 94617
+D 4 94617
+F 4 94617
+IDLE 94618
+P 3 94624
+D 4 94624
+F 4 94624
+IDLE 94624
+P 3 94758
+D 4 94758
+F 4 94758
+IDLE 94758
+P 3 94892
+D 4 94892
+F 4 94892
+IDLE 94892
+P 3 95027
+D 4 95027
+R 0 95027
+R 1 95027
+R 2 95027
+F 4 95028
+D 2 95029
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 95135
+P 2 95135
+D 4 95135
+F 4 95135
+D 1 95136
+Task 1
+Task 1
+P 1 95161
+D 4 95161
+F 4 95161
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 95295
+D 4 95295
+F 4 95295
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 95345
+P 1 95345
+D 4 95345
+F 4 95346
+D 0 95347
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 95429
+D 4 95429
+F 4 95429
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 95563
+D 4 95563
+R 2 95563
+F 4 95563
+D 2 95564
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 95670
+P 2 95670
+D 4 95670
+F 4 95670
+Task 0
+Task 0
+Task 0
+P 0 95698
+D 4 95698
+F 4 95698
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 95832
+D 4 95832
+F 4 95832
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 95966
+D 4 95966
+F 4 95966
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 96100
+D 4 96100
+R 1 96100
+R 2 96100
+F 4 96101
+D 2 96102
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 96208
+P 2 96208
+D 4 96208
+F 4 96208
+D 1 96209
+Task 1
+Task 1
+P 1 96234
+D 4 96234
+F 4 96235
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 96369
+D 4 96369
+F 4 96369
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 96418
+P 1 96418
+D 4 96418
+F 4 96419
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 96503
+D 4 96503
+R 2 96503
+F 4 96503
+D 2 96504
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 96610
+P 2 96610
+D 4 96610
+F 4 96610
+Task 0
+Task 0
+Task 0
+P 0 96637
+D 4 96637
+F 4 96637
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 96771
+D 4 96771
+F 4 96771
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 96906
+D 4 96906
+F 4 96906
+Task 0
+Task 0
+F 0 96924
+P 0 96925
+D 4 96925
+F 4 96925
+IDLE 96926
+P 3 97040
+D 4 97040
+R 1 97040
+R 2 97040
+F 4 97041
+D 2 97042
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 97147
+P 2 97147
+D 4 97147
+F 4 97147
+D 1 97148
+Task 1
+Task 1
+P 1 97174
+D 4 97174
+F 4 97174
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 97308
+D 4 97308
+F 4 97308
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 97358
+P 1 97358
+D 4 97358
+F 4 97358
+IDLE 97359
+P 3 97442
+D 4 97442
+F 4 97442
+IDLE 97443
+P 3 97577
+D 4 97577
+R 0 97577
+R 2 97577
+F 4 97578
+D 2 97579
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 97684
+P 2 97684
+D 4 97684
+F 4 97684
+D 0 97685
+Task 0
+Task 0
+P 0 97711
+D 4 97711
+F 4 97711
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 97845
+D 4 97845
+F 4 97845
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 97979
+D 4 97979
+F 4 97979
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 98114
+D 4 98114
+R 1 98114
+R 2 98114
+F 4 98115
+D 2 98116
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 98221
+P 2 98221
+D 4 98222
+F 4 98222
+D 1 98222
+Task 1
+Task 1
+P 1 98248
+D 4 98248
+F 4 98248
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 98382
+D 4 98382
+F 4 98382
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 98432
+P 1 98432
+D 4 98432
+F 4 98432
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 98516
+D 4 98516
+R 2 98516
+F 4 98516
+D 2 98517
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 98623
+P 2 98623
+D 4 98623
+F 4 98623
+Task 0
+Task 0
+Task 0
+P 0 98650
+D 4 98650
+F 4 98650
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 98785
+D 4 98785
+F 4 98785
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 98919
+D 4 98919
+F 4 98919
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 99053
+D 4 99053
+R 1 99053
+R 2 99053
+F 4 99054
+D 2 99055
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 99161
+P 2 99161
+D 4 99161
+F 4 99161
+D 1 99162
+Task 1
+Task 1
+P 1 99187
+D 4 99187
+F 4 99187
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 99321
+D 4 99321
+F 4 99322
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 99371
+P 1 99371
+D 4 99371
+F 4 99372
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 99456
+D 4 99456
+F 4 99456
+Task 0
+Task 0
+F 0 99475
+P 0 99475
+D 4 99475
+F 4 99476
+IDLE 99477
+P 3 99590
+D 4 99590
+R 2 99590
+F 4 99590
+D 2 99591
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 99697
+P 2 99697
+D 4 99697
+F 4 99697
+IDLE 99698
+P 3 99724
+D 4 99724
+F 4 99724
+IDLE 99724
+P 3 99858
+D 4 99858
+F 4 99858
+IDLE 99858
+P 3 99993
+D 4 99993
+F 4 99993
+IDLE 99993
+P 3 100127
+D 4 100127
+R 0 100127
+R 1 100127
+R 2 100128
+F 4 100129
+D 2 100130
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 100236
+P 2 100236
+D 4 100236
+F 4 100236
+D 1 100237
+Task 1
+Task 1
+P 1 100261
+D 4 100261
+F 4 100261
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 100395
+D 4 100395
+F 4 100395
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 100447
+P 1 100447
+D 4 100447
+F 4 100448
+D 0 100449
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 100529
+D 4 100529
+R 2 100529
+F 4 100530
+D 2 100531
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 100637
+P 2 100637
+D 4 100637
+F 4 100637
+Task 0
+Task 0
+Task 0
+P 0 100664
+D 4 100664
+F 4 100664
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 100798
+D 4 100798
+F 4 100798
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 100932
+D 4 100932
+F 4 100932
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 101066
+D 4 101066
+R 1 101066
+R 2 101067
+F 4 101068
+D 2 101069
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 101174
+P 2 101174
+D 4 101175
+F 4 101175
+D 1 101176
+Task 1
+Task 1
+P 1 101201
+D 4 101201
+F 4 101201
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 101335
+D 4 101335
+F 4 101335
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 101386
+P 1 101386
+D 4 101386
+F 4 101386
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 101469
+D 4 101469
+F 4 101469
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 101603
+D 4 101603
+R 2 101603
+F 4 101603
+D 2 101604
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 101710
+P 2 101710
+D 4 101710
+F 4 101711
+Task 0
+Task 0
+P 0 101737
+D 4 101737
+F 4 101737
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 101872
+D 4 101872
+F 4 101872
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 102006
+D 4 102006
+R 1 102006
+R 2 102006
+F 4 102007
+D 2 102008
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 102114
+P 2 102114
+D 4 102114
+F 4 102114
+Task 0
+Task 0
+P 0 102140
+D 4 102140
+F 4 102140
+Task 0
+F 0 102141
+P 0 102142
+D 4 102143
+F 4 102144
+D 1 102145
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 102274
+D 4 102274
+F 4 102274
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 102355
+P 1 102355
+D 4 102355
+F 4 102356
+IDLE 102357
+P 3 102408
+D 4 102409
+F 4 102409
+IDLE 102409
+P 3 102543
+D 4 102543
+R 0 102543
+R 2 102543
+F 4 102544
+D 2 102545
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 102651
+P 2 102651
+D 4 102651
+F 4 102651
+D 0 102652
+Task 0
+Task 0
+P 0 102677
+D 4 102677
+F 4 102677
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 102811
+D 4 102811
+F 4 102811
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 102945
+D 4 102945
+F 4 102945
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 103080
+D 4 103080
+R 1 103080
+R 2 103080
+F 4 103081
+D 2 103082
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 103188
+P 2 103188
+D 4 103188
+F 4 103188
+D 1 103189
+Task 1
+Task 1
+P 1 103214
+D 4 103214
+F 4 103214
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 103348
+D 4 103348
+F 4 103348
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 103399
+P 1 103399
+D 4 103399
+F 4 103400
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 103482
+D 4 103482
+F 4 103482
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 103616
+D 4 103616
+R 2 103616
+F 4 103617
+D 2 103618
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 103724
+P 2 103724
+D 4 103724
+F 4 103724
+Task 0
+Task 0
+Task 0
+P 0 103751
+D 4 103751
+F 4 103751
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 103885
+D 4 103885
+F 4 103885
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 104019
+D 4 104019
+R 1 104019
+R 2 104019
+F 4 104020
+D 2 104021
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 104127
+P 2 104127
+D 4 104127
+F 4 104128
+D 1 104129
+Task 1
+Task 1
+P 1 104153
+D 4 104153
+F 4 104153
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 104288
+D 4 104288
+F 4 104288
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 104338
+P 1 104338
+D 4 104338
+F 4 104339
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 104422
+D 4 104422
+F 4 104422
+Task 0
+Task 0
+Task 0
+F 0 104448
+P 0 104448
+D 4 104448
+F 4 104449
+IDLE 104450
+P 3 104556
+D 4 104556
+R 2 104556
+F 4 104556
+D 2 104557
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 104663
+P 2 104663
+D 4 104663
+F 4 104663
+IDLE 104664
+P 3 104690
+D 4 104690
+F 4 104690
+IDLE 104690
+P 3 104824
+D 4 104824
+F 4 104824
+IDLE 104825
+P 3 104959
+D 4 104959
+F 4 104959
+IDLE 104959
+P 3 105093
+D 4 105093
+R 0 105093
+R 1 105093
+R 2 105094
+F 4 105095
+D 2 105096
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 105202
+P 2 105202
+D 4 105202
+F 4 105202
+D 1 105203
+Task 1
+Task 1
+P 1 105227
+D 4 105227
+F 4 105227
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 105361
+D 4 105361
+F 4 105361
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 105413
+P 1 105413
+D 4 105413
+F 4 105414
+D 0 105415
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 105495
+D 4 105496
+F 4 105496
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 105630
+D 4 105630
+R 2 105630
+F 4 105630
+D 2 105631
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 105737
+P 2 105737
+D 4 105737
+F 4 105737
+Task 0
+Task 0
+P 0 105764
+D 4 105764
+F 4 105764
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 105898
+D 4 105898
+F 4 105898
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 106032
+D 4 106032
+R 1 106032
+R 2 106033
+F 4 106034
+D 2 106035
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 106141
+P 2 106141
+D 4 106141
+F 4 106141
+D 1 106142
+Task 1
+Task 1
+P 1 106167
+D 4 106167
+F 4 106167
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 106301
+D 4 106301
+F 4 106301
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 106352
+P 1 106352
+D 4 106352
+F 4 106353
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 106435
+D 4 106435
+F 4 106435
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 106569
+D 4 106569
+R 2 106569
+F 4 106570
+D 2 106571
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 106676
+P 2 106676
+D 4 106676
+F 4 106677
+Task 0
+Task 0
+P 0 106703
+D 4 106703
+F 4 106704
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 106838
+D 4 106838
+F 4 106838
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 106972
+D 4 106972
+F 4 106972
+Task 0
+Task 0
+Task 0
+F 0 106997
+P 0 106997
+D 4 106997
+F 4 106998
+IDLE 106999
+P 3 107106
+D 4 107106
+R 1 107106
+R 2 107106
+F 4 107107
+D 2 107108
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 107214
+P 2 107214
+D 4 107214
+F 4 107215
+D 1 107216
+Task 1
+Task 1
+P 1 107240
+D 4 107240
+F 4 107240
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 107375
+D 4 107375
+F 4 107375
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 107425
+P 1 107425
+D 4 107425
+F 4 107426
+IDLE 107427
+P 3 107509
+D 4 107509
+R 0 107509
+R 2 107509
+F 4 107510
+D 2 107511
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 107617
+P 2 107617
+D 4 107617
+F 4 107617
+D 0 107618
+Task 0
+Task 0
+P 0 107643
+D 4 107643
+F 4 107643
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 107777
+D 4 107777
+F 4 107777
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 107911
+D 4 107911
+F 4 107911
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 108046
+D 4 108046
+R 1 108046
+R 2 108046
+F 4 108047
+D 2 108048
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 108154
+P 2 108154
+D 4 108154
+F 4 108154
+D 1 108155
+Task 1
+Task 1
+P 1 108180
+D 4 108180
+F 4 108180
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 108314
+D 4 108314
+F 4 108314
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 108365
+P 1 108365
+D 4 108365
+F 4 108366
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 108448
+D 4 108448
+F 4 108448
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 108582
+D 4 108583
+R 2 108583
+F 4 108583
+D 2 108584
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 108690
+P 2 108690
+D 4 108690
+F 4 108690
+Task 0
+Task 0
+Task 0
+P 0 108717
+D 4 108717
+F 4 108717
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 108851
+D 4 108851
+F 4 108851
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 108985
+D 4 108985
+F 4 108985
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+F 0 109093
+P 0 109093
+D 4 109093
+R 1 109094
+R 2 109095
+F 4 109096
+D 2 109097
+Task 2
+Task 2
+Task 2
+P 2 109119
+D 4 109119
+F 4 109119
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 109203
+P 2 109203
+D 4 109203
+F 4 109203
+D 1 109204
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 109254
+D 4 109254
+F 4 109254
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 109388
+D 4 109388
+F 4 109388
+Task 1
+Task 1
+Task 1
+F 1 109414
+P 1 109414
+D 4 109414
+F 4 109415
+IDLE 109416
+P 3 109522
+D 4 109522
+R 2 109522
+F 4 109522
+D 2 109523
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 109629
+P 2 109629
+D 4 109629
+F 4 109629
+IDLE 109630
+P 3 109656
+D 4 109656
+F 4 109656
+IDLE 109657
+P 3 109790
+D 4 109790
+F 4 109791
+IDLE 109791
+P 3 109925
+D 4 109925
+F 4 109925
+IDLE 109925
+P 3 110059
+D 4 110059
+R 0 110059
+R 1 110059
+R 2 110060
+F 4 110061
+D 2 110062
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 110168
+P 2 110168
+D 4 110168
+F 4 110168
+D 1 110169
+Task 1
+Task 1
+P 1 110193
+D 4 110193
+F 4 110193
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 110327
+D 4 110327
+F 4 110327
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 110379
+P 1 110379
+D 4 110379
+F 4 110380
+D 0 110381
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 110462
+D 4 110462
+F 4 110462
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 110596
+D 4 110596
+R 2 110596
+F 4 110596
+D 2 110597
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 110703
+P 2 110703
+D 4 110703
+F 4 110703
+Task 0
+Task 0
+P 0 110730
+D 4 110730
+F 4 110730
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 110864
+D 4 110864
+F 4 110864
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 110998
+D 4 110998
+F 4 110998
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 111133
+D 4 111133
+R 1 111133
+R 2 111133
+F 4 111134
+D 2 111135
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 111241
+P 2 111241
+D 4 111241
+F 4 111241
+D 1 111242
+Task 1
+Task 1
+P 1 111267
+D 4 111267
+F 4 111267
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 111401
+D 4 111401
+F 4 111401
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 111452
+P 1 111452
+D 4 111452
+F 4 111453
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 111535
+D 4 111535
+R 2 111535
+F 4 111536
+D 2 111537
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 111642
+P 2 111642
+D 4 111642
+F 4 111643
+Task 0
+Task 0
+P 0 111670
+D 4 111670
+F 4 111670
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 111804
+D 4 111804
+F 4 111804
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 111938
+D 4 111938
+F 4 111938
+Task 0
+Task 0
+Task 0
+F 0 111963
+P 0 111963
+D 4 111963
+F 4 111964
+IDLE 111965
+P 3 112072
+D 4 112072
+R 1 112072
+R 2 112072
+F 4 112073
+D 2 112075
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 112180
+P 2 112180
+D 4 112180
+F 4 112181
+D 1 112182
+Task 1
+Task 1
+P 1 112206
+D 4 112206
+F 4 112206
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 112341
+D 4 112341
+F 4 112341
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 112391
+P 1 112391
+D 4 112391
+F 4 112392
+IDLE 112393
+P 3 112475
+D 4 112475
+F 4 112475
+IDLE 112475
+P 3 112609
+D 4 112609
+R 0 112609
+R 2 112609
+F 4 112610
+D 2 112611
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 112717
+P 2 112717
+D 4 112717
+F 4 112717
+D 0 112718
+Task 0
+Task 0
+P 0 112743
+D 4 112743
+F 4 112743
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 112877
+D 4 112877
+F 4 112878
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 113012
+D 4 113012
+R 1 113012
+R 2 113012
+F 4 113013
+D 2 113015
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 113120
+P 2 113120
+D 4 113120
+F 4 113121
+D 1 113122
+Task 1
+Task 1
+P 1 113146
+D 4 113146
+F 4 113146
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 113280
+D 4 113280
+F 4 113280
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 113331
+P 1 113331
+D 4 113331
+F 4 113332
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 113414
+D 4 113414
+F 4 113414
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 113549
+D 4 113549
+R 2 113549
+F 4 113549
+D 2 113550
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 113656
+P 2 113656
+D 4 113656
+F 4 113656
+Task 0
+Task 0
+Task 0
+P 0 113683
+D 4 113683
+F 4 113683
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 113817
+D 4 113817
+F 4 113817
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 113951
+D 4 113951
+F 4 113951
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 114085
+D 4 114085
+R 1 114085
+R 2 114086
+F 4 114087
+D 2 114088
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 114194
+P 2 114194
+D 4 114194
+F 4 114194
+D 1 114195
+Task 1
+Task 1
+P 1 114220
+D 4 114220
+F 4 114220
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 114354
+D 4 114354
+F 4 114354
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 114405
+P 1 114405
+D 4 114405
+F 4 114406
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 114488
+D 4 114488
+F 4 114488
+Task 0
+Task 0
+Task 0
+F 0 114514
+P 0 114514
+D 4 114514
+R 2 114515
+F 4 114516
+D 2 114517
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+P 2 114622
+D 4 114622
+F 4 114622
+D 2 114623
+P 2 114624
+D 4 114625
+F 4 114626
+IDLE 114627
+P 3 114757
+D 4 114757
+F 4 114757
+IDLE 114757
+P 3 114891
+D 4 114891
+F 4 114891
+IDLE 114891
+P 3 115025
+D 4 115025
+R 0 115025
+R 1 115025
+R 2 115026
+F 4 115027
+D 2 115028
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 115134
+P 2 115134
+D 4 115134
+F 4 115134
+D 1 115135
+Task 1
+Task 1
+P 1 115159
+D 4 115159
+F 4 115159
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 115293
+D 4 115293
+F 4 115293
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 115345
+P 1 115345
+D 4 115345
+F 4 115346
+D 0 115347
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 115428
+D 4 115428
+F 4 115428
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 115562
+D 4 115562
+R 2 115562
+F 4 115562
+D 2 115563
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 115669
+P 2 115669
+D 4 115669
+F 4 115669
+Task 0
+Task 0
+P 0 115696
+D 4 115696
+F 4 115696
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 115830
+D 4 115830
+F 4 115830
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 115964
+D 4 115964
+F 4 115965
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 116099
+D 4 116099
+R 1 116099
+R 2 116099
+F 4 116100
+D 2 116101
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 116207
+P 2 116207
+D 4 116207
+F 4 116207
+D 1 116208
+Task 1
+Task 1
+P 1 116233
+D 4 116233
+F 4 116233
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 116367
+D 4 116367
+F 4 116367
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 116418
+P 1 116418
+D 4 116418
+F 4 116419
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 116501
+D 4 116501
+R 2 116501
+F 4 116502
+D 2 116503
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 116608
+P 2 116608
+D 4 116609
+F 4 116609
+Task 0
+Task 0
+P 0 116636
+D 4 116636
+F 4 116636
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 116770
+D 4 116770
+F 4 116770
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 116904
+D 4 116904
+F 4 116904
+Task 0
+Task 0
+Task 0
+F 0 116929
+P 0 116929
+D 4 116929
+F 4 116930
+IDLE 116931
+P 3 117038
+D 4 117038
+R 1 117038
+R 2 117038
+F 4 117040
+D 2 117041
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 117146
+P 2 117146
+D 4 117146
+F 4 117147
+D 1 117148
+Task 1
+Task 1
+P 1 117172
+D 4 117172
+F 4 117172
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 117307
+D 4 117307
+F 4 117307
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 117357
+P 1 117357
+D 4 117357
+F 4 117358
+IDLE 117359
+P 3 117441
+D 4 117441
+F 4 117441
+IDLE 117441
+P 3 117575
+D 4 117575
+R 0 117575
+R 2 117575
+F 4 117576
+D 2 117577
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 117683
+P 2 117683
+D 4 117683
+F 4 117684
+D 0 117685
+Task 0
+Task 0
+P 0 117709
+D 4 117709
+F 4 117709
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 117844
+D 4 117844
+F 4 117844
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 117978
+D 4 117978
+F 4 117978
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 118112
+D 4 118112
+R 1 118112
+R 2 118112
+F 4 118113
+D 2 118114
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 118220
+P 2 118220
+D 4 118220
+F 4 118220
+D 1 118221
+Task 1
+Task 1
+P 1 118246
+D 4 118246
+F 4 118246
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 118380
+D 4 118380
+F 4 118380
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 118431
+P 1 118431
+D 4 118431
+F 4 118432
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 118515
+D 4 118515
+R 2 118515
+F 4 118515
+D 2 118516
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 118622
+P 2 118622
+D 4 118622
+F 4 118622
+Task 0
+Task 0
+Task 0
+P 0 118649
+D 4 118649
+F 4 118649
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 118783
+D 4 118783
+F 4 118783
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 118917
+D 4 118917
+F 4 118917
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 119051
+D 4 119052
+R 1 119052
+R 2 119052
+F 4 119053
+D 2 119054
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 119160
+P 2 119160
+D 4 119160
+F 4 119160
+D 1 119161
+Task 1
+Task 1
+P 1 119186
+D 4 119186
+F 4 119186
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 119320
+D 4 119320
+F 4 119320
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 119371
+P 1 119371
+D 4 119371
+F 4 119372
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 119454
+D 4 119454
+F 4 119454
+Task 0
+Task 0
+Task 0
+F 0 119480
+P 0 119480
+D 4 119480
+F 4 119481
+IDLE 119482
+P 3 119588
+D 4 119588
+R 2 119588
+F 4 119589
+D 2 119590
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 119695
+P 2 119695
+D 4 119696
+F 4 119696
+IDLE 119697
+P 3 119723
+D 4 119723
+F 4 119723
+IDLE 119723
+P 3 119857
+D 4 119857
+F 4 119857
+IDLE 119857
+P 3 119991
+D 4 119991
+F 4 119991
+IDLE 119991
+P 3 120125
+D 4 120125
+R 0 120125
+R 1 120125
+R 2 120127
+F 4 120128
+D 2 120129
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 120234
+P 2 120234
+D 4 120234
+F 4 120235
+D 1 120236
+Task 1
+Task 1
+P 1 120259
+D 4 120259
+F 4 120259
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 120394
+D 4 120394
+F 4 120394
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 120446
+P 1 120446
+D 4 120446
+F 4 120447
+D 0 120448
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 120528
+D 4 120528
+R 2 120528
+F 4 120528
+D 2 120529
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 120635
+P 2 120635
+D 4 120635
+F 4 120635
+Task 0
+Task 0
+Task 0
+P 0 120662
+D 4 120662
+F 4 120662
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 120796
+D 4 120796
+F 4 120796
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 120931
+D 4 120931
+F 4 120931
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 121065
+D 4 121065
+R 1 121065
+R 2 121065
+F 4 121066
+D 2 121067
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 121173
+P 2 121173
+D 4 121173
+F 4 121173
+D 1 121174
+Task 1
+Task 1
+P 1 121199
+D 4 121199
+F 4 121199
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 121333
+D 4 121333
+F 4 121333
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 121384
+P 1 121384
+D 4 121384
+F 4 121385
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 121467
+D 4 121467
+F 4 121467
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 121602
+D 4 121602
+R 2 121602
+F 4 121602
+D 2 121603
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 121709
+P 2 121709
+D 4 121709
+F 4 121709
+Task 0
+Task 0
+P 0 121736
+D 4 121736
+F 4 121736
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 121870
+D 4 121870
+F 4 121870
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+P 0 122004
+D 4 122004
+R 1 122004
+R 2 122005
+F 4 122006
+D 2 122007
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 122112
+P 2 122112
+D 4 122112
+F 4 122113
+Task 0
+Task 0
+P 0 122138
+D 4 122139
+F 4 122139
+Task 0
+F 0 122139
+P 0 122141
+D 4 122142
+F 4 122143
+D 1 122144
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+P 1 122273
+D 4 122273
+F 4 122273
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+Task 1
+F 1 122353
+P 1 122353
+D 4 122353
+F 4 122354
+IDLE 122355
+P 3 122407
+D 4 122407
+F 4 122407
+IDLE 122407
+P 3 122541
+D 4 122541
+R 0 122541
+R 2 122541
+F 4 122542
+D 2 122543
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+Task 2
+D 2 122649
+P 2 122649
+D 4 122649
+F 4 122650
+D 0 122651
+Task 0
+Task 0
+P 0 122675
+D 4 122675
+F 4 122675
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
+Task 0
